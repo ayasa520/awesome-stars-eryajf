@@ -18,6 +18,7 @@
 
 ## Table of Contents
 
+*   [TypeScript](#typescript)
 *   [Python](#python)
 *   [Java](#java)
 *   [C++](#c)
@@ -32,7 +33,6 @@
 *   [TeX](#tex)
 *   [GDScript](#gdscript)
 *   [Vala](#vala)
-*   [TypeScript](#typescript)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [miscellaneous](#miscellaneous)
 *   [Scala](#scala)
@@ -45,6 +45,16 @@
 *   [Vue](#vue)
 *   [Lua](#lua)
 *   [Thanks](#thanks)
+
+## TypeScript
+
+*   [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains
+
+*   [vixalien/sticky](https://github.com/vixalien/sticky) - A simple sticky notes app for GNOME
+
+*   [inversify/inversify-express-utils](https://github.com/inversify/inversify-express-utils) - Some utilities for the development of Express application with InversifyJS
+
+*   [TomDoesTech/REST-API-Tutorial-Updated](https://github.com/TomDoesTech/REST-API-Tutorial-Updated) -
 
 ## Python
 
@@ -117,8 +127,6 @@
 *   [eclipse-collections/eclipse-collections](https://github.com/eclipse-collections/eclipse-collections) - Eclipse Collections is a collections framework for Java with optimized data structures and a rich, functional and fluent API.
 
 *   [ittqqzz/ECommerceRecommendSystem](https://github.com/ittqqzz/ECommerceRecommendSystem) - 商品大数据实时推荐系统。前端：Vue + TypeScript + ElementUI，后端 Spring + Spark
-
-*   [qunarcorp/qmq](https://github.com/qunarcorp/qmq) -  QMQ是去哪儿网内部广泛使用的消息中间件，自2012年诞生以来在去哪儿网所有业务场景中广泛的应用，包括跟交易息息相关的订单场景； 也包括报价搜索等高吞吐量场景。
 
 ## C++
 
@@ -221,14 +229,6 @@
 ## Vala
 
 *   [lainsce/notejot](https://github.com/lainsce/notejot) - Stupidly-simple notes app.
-
-## TypeScript
-
-*   [vixalien/sticky](https://github.com/vixalien/sticky) - A simple sticky notes app for GNOME
-
-*   [inversify/inversify-express-utils](https://github.com/inversify/inversify-express-utils) - Some utilities for the development of Express application with InversifyJS
-
-*   [TomDoesTech/REST-API-Tutorial-Updated](https://github.com/TomDoesTech/REST-API-Tutorial-Updated) -
 
 ## Jupyter Notebook
 
