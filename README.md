@@ -18,13 +18,14 @@
 
 ## Table of Contents
 
-*   [TypeScript](#typescript)
+*   [C](#c)
 *   [Python](#python)
+*   [Rust](#rust)
+*   [TypeScript](#typescript)
 *   [Java](#java)
-*   [C++](#c)
+*   [C++](#c-1)
 *   [JavaScript](#javascript)
 *   [Kotlin](#kotlin)
-*   [C](#c-1)
 *   [Shell](#shell)
 *   [Typst](#typst)
 *   [HTML](#html)
@@ -36,7 +37,6 @@
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [miscellaneous](#miscellaneous)
 *   [Scala](#scala)
-*   [Rust](#rust)
 *   [CSS](#css)
 *   [Makefile](#makefile)
 *   [Dart](#dart)
@@ -46,17 +46,19 @@
 *   [Lua](#lua)
 *   [Thanks](#thanks)
 
-## TypeScript
+## C
 
-*   [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains
+*   [johnfanv2/LenovoLegionLinux](https://github.com/johnfanv2/LenovoLegionLinux) - Driver and tools for controlling Lenovo Legion laptops in Linux including fan control and power mode.
 
-*   [vixalien/sticky](https://github.com/vixalien/sticky) - A simple sticky notes app for GNOME
+*   [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 
-*   [inversify/inversify-express-utils](https://github.com/inversify/inversify-express-utils) - Some utilities for the development of Express application with InversifyJS
+*   [rvaiya/keyd](https://github.com/rvaiya/keyd) - A key remapping daemon for linux.
 
-*   [TomDoesTech/REST-API-Tutorial-Updated](https://github.com/TomDoesTech/REST-API-Tutorial-Updated) -
+*   [xemu-project/xemu](https://github.com/xemu-project/xemu) - Original Xbox Emulator for Windows, macOS, and Linux (Active Development)
 
 ## Python
+
+*   [AdnanHodzic/auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq) - Automatic CPU speed & power optimizer for Linux
 
 *   [g1879/DrissionPage](https://github.com/g1879/DrissionPage) - Python based web automation tool. Powerful and elegant.
 
@@ -106,6 +108,24 @@
 
 *   [MaxiParadise/Make\_Excel\_PixelArt](https://github.com/MaxiParadise/Make_Excel_PixelArt) -
 
+## Rust
+
+*   [H-M-H/Weylus](https://github.com/H-M-H/Weylus) - Use your tablet as graphic tablet/touch screen on your computer.
+
+*   [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
+
+*   [cloudflare/wrangler-legacy](https://github.com/cloudflare/wrangler-legacy) - 🤠  Home to Wrangler v1 (deprecated)
+
+## TypeScript
+
+*   [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains
+
+*   [vixalien/sticky](https://github.com/vixalien/sticky) - A simple sticky notes app for GNOME
+
+*   [inversify/inversify-express-utils](https://github.com/inversify/inversify-express-utils) - Some utilities for the development of Express application with InversifyJS
+
+*   [TomDoesTech/REST-API-Tutorial-Updated](https://github.com/TomDoesTech/REST-API-Tutorial-Updated) -
+
 ## Java
 
 *   [nightmare-space/applib](https://github.com/nightmare-space/applib) - android server, based on HTTP
@@ -123,10 +143,6 @@
 *   [YDJSIR-NJU/NJUSE-22-SE3](https://github.com/YDJSIR-NJU/NJUSE-22-SE3) - Collection of Software Engineering and Computing Ⅲ @ Software Institute, Nanjing University
 
 *   [hxq191830060/Collect](https://github.com/hxq191830060/Collect) - 本项目由云原生PaaS平台和众包测试平台组成，众包测试平台是业务系统，运行在PaaS平台上
-
-*   [eclipse-collections/eclipse-collections](https://github.com/eclipse-collections/eclipse-collections) - Eclipse Collections is a collections framework for Java with optimized data structures and a rich, functional and fluent API.
-
-*   [ittqqzz/ECommerceRecommendSystem](https://github.com/ittqqzz/ECommerceRecommendSystem) - 商品大数据实时推荐系统。前端：Vue + TypeScript + ElementUI，后端 Spring + Spark
 
 ## C++
 
@@ -181,14 +197,6 @@
 *   [tiann/KernelSU](https://github.com/tiann/KernelSU) - A Kernel based root solution for Android
 
 *   [yujincheng08/BiliRoaming](https://github.com/yujincheng08/BiliRoaming) - 哔哩漫游，解除B站客户端番剧区域限制的Xposed模块，并且提供其他小功能。An Xposed module that unblocks bangumi area limit of BILIBILI with miscellaneous features.
-
-## C
-
-*   [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
-
-*   [rvaiya/keyd](https://github.com/rvaiya/keyd) - A key remapping daemon for linux.
-
-*   [xemu-project/xemu](https://github.com/xemu-project/xemu) - Original Xbox Emulator for Windows, macOS, and Linux (Active Development)
 
 ## Shell
 
@@ -251,14 +259,6 @@
 ## Scala
 
 *   [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for Twitter's Recommendation Algorithm
-
-*   [almond-sh/almond](https://github.com/almond-sh/almond) - A Scala kernel for Jupyter
-
-## Rust
-
-*   [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
-
-*   [cloudflare/wrangler-legacy](https://github.com/cloudflare/wrangler-legacy) - 🤠  Home to Wrangler v1 (deprecated)
 
 ## CSS
 
