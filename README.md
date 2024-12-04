@@ -128,7 +128,7 @@
 
 ## Java
 
-*   [nightmare-space/applib](https://github.com/nightmare-space/applib) - android server, based on HTTP
+*   [nightmare-space/android\_api\_server](https://github.com/nightmare-space/android_api_server) - android server, based on HTTP
 
 *   [gtf35/app\_process-shell-use](https://github.com/gtf35/app_process-shell-use) - 利用 app\_process 实现免root调用shell
 
