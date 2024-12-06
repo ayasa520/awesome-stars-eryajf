@@ -18,11 +18,11 @@
 
 ## Table of Contents
 
-*   [Java](#java)
 *   [C](#c)
 *   [Python](#python)
 *   [Rust](#rust)
 *   [TypeScript](#typescript)
+*   [Java](#java)
 *   [C++](#c-1)
 *   [JavaScript](#javascript)
 *   [Kotlin](#kotlin)
@@ -45,26 +45,6 @@
 *   [Vue](#vue)
 *   [Lua](#lua)
 *   [Thanks](#thanks)
-
-## Java
-
-*   [Devo919/Gewechat](https://github.com/Devo919/Gewechat) - 微信机器人框架，个人微信二次开发，最简单易用的免费二开框架,微信ipad登录（非HOOK破解桌面端）
-
-*   [nightmare-space/android\_api\_server](https://github.com/nightmare-space/android_api_server) - android server, based on HTTP
-
-*   [gtf35/app\_process-shell-use](https://github.com/gtf35/app_process-shell-use) - 利用 app\_process 实现免root调用shell
-
-*   [Melledy/LunarCore](https://github.com/Melledy/LunarCore) - A game server reimplementation for a certain turn-based anime game
-
-*   [cinit/QAuxiliary](https://github.com/cinit/QAuxiliary) - QNotified phoenix - To make OICQ great again
-
-*   [ikws4/WeiJu2](https://github.com/ikws4/WeiJu2) - Scriptable Xposed Module
-
-*   [Xtr126/XtMapper](https://github.com/Xtr126/XtMapper) - Keyboard and mouse input mapper
-
-*   [YDJSIR-NJU/NJUSE-22-SE3](https://github.com/YDJSIR-NJU/NJUSE-22-SE3) - Collection of Software Engineering and Computing Ⅲ @ Software Institute, Nanjing University
-
-*   [hxq191830060/Collect](https://github.com/hxq191830060/Collect) - 本项目由云原生PaaS平台和众包测试平台组成，众包测试平台是业务系统，运行在PaaS平台上
 
 ## C
 
@@ -145,6 +125,24 @@
 *   [inversify/inversify-express-utils](https://github.com/inversify/inversify-express-utils) - Some utilities for the development of Express application with InversifyJS
 
 *   [TomDoesTech/REST-API-Tutorial-Updated](https://github.com/TomDoesTech/REST-API-Tutorial-Updated) -
+
+## Java
+
+*   [nightmare-space/android\_api\_server](https://github.com/nightmare-space/android_api_server) - android server, based on HTTP
+
+*   [gtf35/app\_process-shell-use](https://github.com/gtf35/app_process-shell-use) - 利用 app\_process 实现免root调用shell
+
+*   [Melledy/LunarCore](https://github.com/Melledy/LunarCore) - A game server reimplementation for a certain turn-based anime game
+
+*   [cinit/QAuxiliary](https://github.com/cinit/QAuxiliary) - QNotified phoenix - To make OICQ great again
+
+*   [ikws4/WeiJu2](https://github.com/ikws4/WeiJu2) - Scriptable Xposed Module
+
+*   [Xtr126/XtMapper](https://github.com/Xtr126/XtMapper) - Keyboard and mouse input mapper
+
+*   [YDJSIR-NJU/NJUSE-22-SE3](https://github.com/YDJSIR-NJU/NJUSE-22-SE3) - Collection of Software Engineering and Computing Ⅲ @ Software Institute, Nanjing University
+
+*   [hxq191830060/Collect](https://github.com/hxq191830060/Collect) - 本项目由云原生PaaS平台和众包测试平台组成，众包测试平台是业务系统，运行在PaaS平台上
 
 ## C++
 
@@ -255,6 +253,8 @@
 *   [waydroid/docs](https://github.com/waydroid/docs) -
 
 *   [jwalton/passport-api-docs](https://github.com/jwalton/passport-api-docs) - Documentation for Passport.js.
+
+*   [brightmart/nlp\_chinese\_corpus](https://github.com/brightmart/nlp_chinese_corpus) - 大规模中文自然语言处理语料  Large Scale Chinese Corpus for NLP
 
 ## Scala
 
