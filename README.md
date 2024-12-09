@@ -18,9 +18,9 @@
 
 ## Table of Contents
 
+*   [Python](#python)
 *   [PHP](#php)
 *   [C](#c)
-*   [Python](#python)
 *   [Rust](#rust)
 *   [TypeScript](#typescript)
 *   [Java](#java)
@@ -44,24 +44,13 @@
 *   [Go](#go)
 *   [C#](#c-2)
 *   [Vue](#vue)
-*   [Lua](#lua)
 *   [Thanks](#thanks)
 
-## PHP
-
-*   [Open-Wine-Components/umu-database](https://github.com/Open-Wine-Components/umu-database) - Contains spreadsheet of game titles for different stores, their store specific code names, and their ULWGL ids.
-
-## C
-
-*   [johnfanv2/LenovoLegionLinux](https://github.com/johnfanv2/LenovoLegionLinux) - Driver and tools for controlling Lenovo Legion laptops in Linux including fan control and power mode.
-
-*   [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
-
-*   [rvaiya/keyd](https://github.com/rvaiya/keyd) - A key remapping daemon for linux.
-
-*   [xemu-project/xemu](https://github.com/xemu-project/xemu) - Original Xbox Emulator for Windows, macOS, and Linux (Active Development)
-
 ## Python
+
+*   [pywinauto/pywinauto](https://github.com/pywinauto/pywinauto) - Windows GUI Automation with Python (based on text properties)
+
+*   [cluic/wxauto](https://github.com/cluic/wxauto) - Windows版本微信客户端（非网页版）自动化，可实现简单的发送、接收微信消息，简单微信机器人
 
 *   [AdnanHodzic/auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq) - Automatic CPU speed & power optimizer for Linux
 
@@ -111,7 +100,19 @@
 
 *   [ArizaQ/MachineLearning](https://github.com/ArizaQ/MachineLearning) -
 
-*   [MaxiParadise/Make\_Excel\_PixelArt](https://github.com/MaxiParadise/Make_Excel_PixelArt) -
+## PHP
+
+*   [Open-Wine-Components/umu-database](https://github.com/Open-Wine-Components/umu-database) - Contains spreadsheet of game titles for different stores, their store specific code names, and their ULWGL ids.
+
+## C
+
+*   [johnfanv2/LenovoLegionLinux](https://github.com/johnfanv2/LenovoLegionLinux) - Driver and tools for controlling Lenovo Legion laptops in Linux including fan control and power mode.
+
+*   [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
+
+*   [rvaiya/keyd](https://github.com/rvaiya/keyd) - A key remapping daemon for linux.
+
+*   [xemu-project/xemu](https://github.com/xemu-project/xemu) - Original Xbox Emulator for Windows, macOS, and Linux (Active Development)
 
 ## Rust
 
@@ -296,10 +297,6 @@
 ## Vue
 
 *   [pure-admin/vue-pure-admin](https://github.com/pure-admin/vue-pure-admin) - 全面ESM+Vue3+Vite+Element-Plus+TypeScript编写的一款后台管理系统（兼容移动端）
-
-## Lua
-
-*   [nagadomi/waifu2x](https://github.com/nagadomi/waifu2x) - Image Super-Resolution for Anime-Style Art
 
 ## Thanks
 
