@@ -18,6 +18,7 @@
 
 ## Table of Contents
 
+*   [JavaScript](#javascript)
 *   [Python](#python)
 *   [PHP](#php)
 *   [C](#c)
@@ -25,7 +26,6 @@
 *   [TypeScript](#typescript)
 *   [Java](#java)
 *   [C++](#c-1)
-*   [JavaScript](#javascript)
 *   [Kotlin](#kotlin)
 *   [Shell](#shell)
 *   [Typst](#typst)
@@ -45,6 +45,28 @@
 *   [C#](#c-2)
 *   [Vue](#vue)
 *   [Thanks](#thanks)
+
+## JavaScript
+
+*   [DG-LAB-OPENSOURCE/DG-LAB-OPENSOURCE](https://github.com/DG-LAB-OPENSOURCE/DG-LAB-OPENSOURCE) - The Bluetooth Protocol Of DG-LAB Devices
+
+*   [AHCorn/Bilibili-To-Raindrop](https://github.com/AHCorn/Bilibili-To-Raindrop) - 导出哔哩哔哩收藏夹至 CSV 文件，以便转移至 Raindrop 或备份 / Export the Bilibili favorites folder to a CSV file for easy transfer to Raindrop or backup.
+
+*   [obgnail/typora\_plugin](https://github.com/obgnail/typora_plugin) - Typora plugin. Feature enhancement tool | Typora 插件，功能增强工具
+
+*   [MrOtherGuy/fx-autoconfig](https://github.com/MrOtherGuy/fx-autoconfig) - Load custom javascript in browser context
+
+*   [ixovo/Cloudflare-Workers-E5Renew](https://github.com/ixovo/Cloudflare-Workers-E5Renew) - Cloudflare Workers for E5 Renewal
+
+*   [jeffshee/gnome-ext-hanabi](https://github.com/jeffshee/gnome-ext-hanabi) - Live Wallpaper for GNOME
+
+*   [walinejs/auth](https://github.com/walinejs/auth) - Social account auth service, support github, twitter, facebook, google
+
+*   [Automattic/mongoose](https://github.com/Automattic/mongoose) - MongoDB object modeling designed to work in an asynchronous environment.
+
+*   [twikoojs/twikoo](https://github.com/twikoojs/twikoo) - 💬 一个简洁、安全、免费的静态网站评论系统 | A simple, safe, free comment system.
+
+*   [msojocs/bilibili-linux](https://github.com/msojocs/bilibili-linux) - 基于哔哩哔哩官方客户端移植的Linux版本 支持漫游
 
 ## Python
 
@@ -97,8 +119,6 @@
 *   [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Monterey + Ventura + Sonoma support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.
 
 *   [XingLiangLondon/Image-Similarity-in-Percentage](https://github.com/XingLiangLondon/Image-Similarity-in-Percentage) - Siamese network to compare image similarity in percentage - based on Keras deep learning model (ResNet50, VGG16) & Cosine / Euclidean similarity
-
-*   [ArizaQ/MachineLearning](https://github.com/ArizaQ/MachineLearning) -
 
 ## PHP
 
@@ -175,26 +195,6 @@
 *   [KikoPlayProject/KikoPlay](https://github.com/KikoPlayProject/KikoPlay) - KikoPlay - NOT ONLY A Full-Featured Danmu Player  不仅仅是全功能弹幕播放器
 
 *   [a-parhom/LightlyShaders](https://github.com/a-parhom/LightlyShaders) - Rounded window corners and outline effect for KWin.
-
-## JavaScript
-
-*   [AHCorn/Bilibili-To-Raindrop](https://github.com/AHCorn/Bilibili-To-Raindrop) - 导出哔哩哔哩收藏夹至 CSV 文件，以便转移至 Raindrop 或备份 / Export the Bilibili favorites folder to a CSV file for easy transfer to Raindrop or backup.
-
-*   [obgnail/typora\_plugin](https://github.com/obgnail/typora_plugin) - Typora plugin. Feature enhancement tool | Typora 插件，功能增强工具
-
-*   [MrOtherGuy/fx-autoconfig](https://github.com/MrOtherGuy/fx-autoconfig) - Load custom javascript in browser context
-
-*   [ixovo/Cloudflare-Workers-E5Renew](https://github.com/ixovo/Cloudflare-Workers-E5Renew) - Cloudflare Workers for E5 Renewal
-
-*   [jeffshee/gnome-ext-hanabi](https://github.com/jeffshee/gnome-ext-hanabi) - Live Wallpaper for GNOME
-
-*   [walinejs/auth](https://github.com/walinejs/auth) - Social account auth service, support github, twitter, facebook, google
-
-*   [Automattic/mongoose](https://github.com/Automattic/mongoose) - MongoDB object modeling designed to work in an asynchronous environment.
-
-*   [twikoojs/twikoo](https://github.com/twikoojs/twikoo) - 💬 一个简洁、安全、免费的静态网站评论系统 | A simple, safe, free comment system.
-
-*   [msojocs/bilibili-linux](https://github.com/msojocs/bilibili-linux) - 基于哔哩哔哩官方客户端移植的Linux版本 支持漫游
 
 ## Kotlin
 
