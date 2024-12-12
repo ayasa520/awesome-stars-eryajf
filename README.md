@@ -18,12 +18,12 @@
 
 ## Table of Contents
 
+*   [TypeScript](#typescript)
 *   [JavaScript](#javascript)
 *   [Python](#python)
 *   [PHP](#php)
 *   [C](#c)
 *   [Rust](#rust)
-*   [TypeScript](#typescript)
 *   [Java](#java)
 *   [C++](#c-1)
 *   [Kotlin](#kotlin)
@@ -45,6 +45,18 @@
 *   [C#](#c-2)
 *   [Vue](#vue)
 *   [Thanks](#thanks)
+
+## TypeScript
+
+*   [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
+
+*   [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains
+
+*   [vixalien/sticky](https://github.com/vixalien/sticky) - A simple sticky notes app for GNOME
+
+*   [inversify/inversify-express-utils](https://github.com/inversify/inversify-express-utils) - Some utilities for the development of Express application with InversifyJS
+
+*   [TomDoesTech/REST-API-Tutorial-Updated](https://github.com/TomDoesTech/REST-API-Tutorial-Updated) -
 
 ## JavaScript
 
@@ -118,8 +130,6 @@
 
 *   [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Monterey + Ventura + Sonoma support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.
 
-*   [XingLiangLondon/Image-Similarity-in-Percentage](https://github.com/XingLiangLondon/Image-Similarity-in-Percentage) - Siamese network to compare image similarity in percentage - based on Keras deep learning model (ResNet50, VGG16) & Cosine / Euclidean similarity
-
 ## PHP
 
 *   [Open-Wine-Components/umu-database](https://github.com/Open-Wine-Components/umu-database) - Contains spreadsheet of game titles for different stores, their store specific code names, and their ULWGL ids.
@@ -141,16 +151,6 @@
 *   [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
 
 *   [cloudflare/wrangler-legacy](https://github.com/cloudflare/wrangler-legacy) - 🤠  Home to Wrangler v1 (deprecated)
-
-## TypeScript
-
-*   [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains
-
-*   [vixalien/sticky](https://github.com/vixalien/sticky) - A simple sticky notes app for GNOME
-
-*   [inversify/inversify-express-utils](https://github.com/inversify/inversify-express-utils) - Some utilities for the development of Express application with InversifyJS
-
-*   [TomDoesTech/REST-API-Tutorial-Updated](https://github.com/TomDoesTech/REST-API-Tutorial-Updated) -
 
 ## Java
 
