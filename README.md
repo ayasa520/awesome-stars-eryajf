@@ -18,12 +18,12 @@
 
 ## Table of Contents
 
+*   [Rust](#rust)
 *   [TypeScript](#typescript)
 *   [JavaScript](#javascript)
 *   [Python](#python)
 *   [PHP](#php)
 *   [C](#c)
-*   [Rust](#rust)
 *   [Java](#java)
 *   [C++](#c-1)
 *   [Kotlin](#kotlin)
@@ -45,6 +45,16 @@
 *   [C#](#c-2)
 *   [Vue](#vue)
 *   [Thanks](#thanks)
+
+## Rust
+
+*   [sigoden/window-switcher](https://github.com/sigoden/window-switcher) - Easily switch between windows of the same app with Alt+\` (Backtick), also switch between apps with Alt+Tab.
+
+*   [H-M-H/Weylus](https://github.com/H-M-H/Weylus) - Use your tablet as graphic tablet/touch screen on your computer.
+
+*   [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
+
+*   [cloudflare/wrangler-legacy](https://github.com/cloudflare/wrangler-legacy) - 🤠  Home to Wrangler v1 (deprecated)
 
 ## TypeScript
 
@@ -144,14 +154,6 @@
 
 *   [xemu-project/xemu](https://github.com/xemu-project/xemu) - Original Xbox Emulator for Windows, macOS, and Linux (Active Development)
 
-## Rust
-
-*   [H-M-H/Weylus](https://github.com/H-M-H/Weylus) - Use your tablet as graphic tablet/touch screen on your computer.
-
-*   [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
-
-*   [cloudflare/wrangler-legacy](https://github.com/cloudflare/wrangler-legacy) - 🤠  Home to Wrangler v1 (deprecated)
-
 ## Java
 
 *   [nightmare-space/android\_api\_server](https://github.com/nightmare-space/android_api_server) - android server, based on HTTP
@@ -201,8 +203,6 @@
 *   [ktorio/ktor-documentation](https://github.com/ktorio/ktor-documentation) - Documentation for the Ktor framework.
 
 *   [tiann/KernelSU](https://github.com/tiann/KernelSU) - A Kernel based root solution for Android
-
-*   [yujincheng08/BiliRoaming](https://github.com/yujincheng08/BiliRoaming) - 哔哩漫游，解除B站客户端番剧区域限制的Xposed模块，并且提供其他小功能。An Xposed module that unblocks bangumi area limit of BILIBILI with miscellaneous features.
 
 ## Shell
 
