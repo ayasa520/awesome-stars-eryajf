@@ -18,6 +18,7 @@
 
 ## Table of Contents
 
+*   [Shell](#shell)
 *   [Rust](#rust)
 *   [TypeScript](#typescript)
 *   [JavaScript](#javascript)
@@ -27,7 +28,6 @@
 *   [Java](#java)
 *   [C++](#c-1)
 *   [Kotlin](#kotlin)
-*   [Shell](#shell)
 *   [Typst](#typst)
 *   [HTML](#html)
 *   [QML](#qml)
@@ -45,6 +45,18 @@
 *   [C#](#c-2)
 *   [Vue](#vue)
 *   [Thanks](#thanks)
+
+## Shell
+
+*   [YageGeng/thinkbook16p-gen5-sound-fix](https://github.com/YageGeng/thinkbook16p-gen5-sound-fix) - thinkbook 16p gen5 sound fix
+
+*   [nitanmarcel/PlayInterityPIFs](https://github.com/nitanmarcel/PlayInterityPIFs) - Repository with pre-generated pif.json files to use with PlayIntegrityModule
+
+*   [ilhan-athn7/android\_proprietary\_native\_bridge](https://github.com/ilhan-athn7/android_proprietary_native_bridge) - A collection of android DTB(Dynamic Binary Translator) implementations pulled from Chromebook CrosVM software and Windows Subsystem For Android.
+
+*   [newbit1/rootAVD](https://github.com/newbit1/rootAVD) - Script to root AVDs running with QEMU Emulator from Android Studio
+
+*   [remote-android/redroid-doc](https://github.com/remote-android/redroid-doc) - redroid (Remote-Android) is a multi-arch, GPU enabled, Android in Cloud solution. Track issues / docs here
 
 ## Rust
 
@@ -87,8 +99,6 @@
 *   [Automattic/mongoose](https://github.com/Automattic/mongoose) - MongoDB object modeling designed to work in an asynchronous environment.
 
 *   [twikoojs/twikoo](https://github.com/twikoojs/twikoo) - 💬 一个简洁、安全、免费的静态网站评论系统 | A simple, safe, free comment system.
-
-*   [msojocs/bilibili-linux](https://github.com/msojocs/bilibili-linux) - 基于哔哩哔哩官方客户端移植的Linux版本 支持漫游
 
 ## Python
 
@@ -203,16 +213,6 @@
 *   [ktorio/ktor-documentation](https://github.com/ktorio/ktor-documentation) - Documentation for the Ktor framework.
 
 *   [tiann/KernelSU](https://github.com/tiann/KernelSU) - A Kernel based root solution for Android
-
-## Shell
-
-*   [nitanmarcel/PlayInterityPIFs](https://github.com/nitanmarcel/PlayInterityPIFs) - Repository with pre-generated pif.json files to use with PlayIntegrityModule
-
-*   [ilhan-athn7/android\_proprietary\_native\_bridge](https://github.com/ilhan-athn7/android_proprietary_native_bridge) - A collection of android DTB(Dynamic Binary Translator) implementations pulled from Chromebook CrosVM software and Windows Subsystem For Android.
-
-*   [newbit1/rootAVD](https://github.com/newbit1/rootAVD) - Script to root AVDs running with QEMU Emulator from Android Studio
-
-*   [remote-android/redroid-doc](https://github.com/remote-android/redroid-doc) - redroid (Remote-Android) is a multi-arch, GPU enabled, Android in Cloud solution. Track issues / docs here
 
 ## Typst
 
