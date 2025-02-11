@@ -18,10 +18,10 @@
 
 ## Table of Contents
 
+*   [TypeScript](#typescript)
 *   [Python](#python)
 *   [Shell](#shell)
 *   [Rust](#rust)
-*   [TypeScript](#typescript)
 *   [JavaScript](#javascript)
 *   [PHP](#php)
 *   [C](#c)
@@ -43,8 +43,21 @@
 *   [Dart](#dart)
 *   [Go](#go)
 *   [C#](#c-2)
-*   [Vue](#vue)
 *   [Thanks](#thanks)
+
+## TypeScript
+
+*   [huxulm/lc-rating](https://github.com/huxulm/lc-rating) - 力扣周赛训练小工具，欢迎使用🎈
+
+*   [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
+
+*   [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains
+
+*   [vixalien/sticky](https://github.com/vixalien/sticky) - A simple sticky notes app for GNOME
+
+*   [inversify/inversify-express-utils](https://github.com/inversify/inversify-express-utils) - Some utilities for the development of Express application with InversifyJS
+
+*   [TomDoesTech/REST-API-Tutorial-Updated](https://github.com/TomDoesTech/REST-API-Tutorial-Updated) -
 
 ## Python
 
@@ -119,18 +132,6 @@
 *   [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
 
 *   [cloudflare/wrangler-legacy](https://github.com/cloudflare/wrangler-legacy) - 🤠  Home to Wrangler v1 (deprecated)
-
-## TypeScript
-
-*   [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
-
-*   [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains
-
-*   [vixalien/sticky](https://github.com/vixalien/sticky) - A simple sticky notes app for GNOME
-
-*   [inversify/inversify-express-utils](https://github.com/inversify/inversify-express-utils) - Some utilities for the development of Express application with InversifyJS
-
-*   [TomDoesTech/REST-API-Tutorial-Updated](https://github.com/TomDoesTech/REST-API-Tutorial-Updated) -
 
 ## JavaScript
 
@@ -293,10 +294,6 @@
 *   [ThatCoders/BILIBILI-AI](https://github.com/ThatCoders/BILIBILI-AI) - 哔哩哔哩(b站B站)自动签到
 
 *   [hanmin0822/MisakaTranslator](https://github.com/hanmin0822/MisakaTranslator) - 御坂翻译器—Galgame/文字游戏/漫画多语种实时机翻工具
-
-## Vue
-
-*   [pure-admin/vue-pure-admin](https://github.com/pure-admin/vue-pure-admin) - 全面ESM+Vue3+Vite+Element-Plus+TypeScript编写的一款后台管理系统（兼容移动端）
 
 ## Thanks
 
