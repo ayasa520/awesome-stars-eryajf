@@ -18,8 +18,8 @@
 
 ## Table of Contents
 
-*   [TypeScript](#typescript)
 *   [Python](#python)
+*   [TypeScript](#typescript)
 *   [Shell](#shell)
 *   [Rust](#rust)
 *   [JavaScript](#javascript)
@@ -45,21 +45,9 @@
 *   [C#](#c-2)
 *   [Thanks](#thanks)
 
-## TypeScript
-
-*   [huxulm/lc-rating](https://github.com/huxulm/lc-rating) - 力扣周赛训练小工具，欢迎使用🎈
-
-*   [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
-
-*   [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Create, share, and use custom AI code assistants with our open-source IDE extensions and hub of models, rules, prompts, docs, and other building blocks
-
-*   [vixalien/sticky](https://github.com/vixalien/sticky) - A simple sticky notes app for GNOME
-
-*   [inversify/inversify-express-utils](https://github.com/inversify/inversify-express-utils) - Some utilities for the development of Express application with InversifyJS
-
-*   [TomDoesTech/REST-API-Tutorial-Updated](https://github.com/TomDoesTech/REST-API-Tutorial-Updated) -
-
 ## Python
+
+*   [mannaandpoem/OpenManus](https://github.com/mannaandpoem/OpenManus) - No fortress, purely open ground.  OpenManus is Coming.
 
 *   [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 
@@ -110,6 +98,20 @@
 *   [borisdayma/dalle-mini](https://github.com/borisdayma/dalle-mini) - DALL·E Mini - Generate images from a text prompt
 
 *   [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Monterey + Ventura + Sonoma support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.
+
+## TypeScript
+
+*   [huxulm/lc-rating](https://github.com/huxulm/lc-rating) - 力扣周赛训练小工具，欢迎使用🎈
+
+*   [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
+
+*   [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Create, share, and use custom AI code assistants with our open-source IDE extensions and hub of models, rules, prompts, docs, and other building blocks
+
+*   [vixalien/sticky](https://github.com/vixalien/sticky) - A simple sticky notes app for GNOME
+
+*   [inversify/inversify-express-utils](https://github.com/inversify/inversify-express-utils) - Some utilities for the development of Express application with InversifyJS
+
+*   [TomDoesTech/REST-API-Tutorial-Updated](https://github.com/TomDoesTech/REST-API-Tutorial-Updated) -
 
 ## Shell
 
@@ -182,8 +184,6 @@
 *   [Xtr126/XtMapper](https://github.com/Xtr126/XtMapper) - Keyboard and mouse input mapper
 
 *   [YDJSIR-NJU/NJUSE-22-SE3](https://github.com/YDJSIR-NJU/NJUSE-22-SE3) - Collection of Software Engineering and Computing Ⅲ @ Software Institute, Nanjing University
-
-*   [hxq191830060/Collect](https://github.com/hxq191830060/Collect) - 本项目由云原生PaaS平台和众包测试平台组成，众包测试平台是业务系统，运行在PaaS平台上
 
 ## C++
 
