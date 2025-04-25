@@ -18,6 +18,7 @@
 
 ## Table of Contents
 
+*   [miscellaneous](#miscellaneous)
 *   [C++](#c)
 *   [Python](#python)
 *   [TypeScript](#typescript)
@@ -36,7 +37,6 @@
 *   [GDScript](#gdscript)
 *   [Vala](#vala)
 *   [Jupyter Notebook](#jupyter-notebook)
-*   [miscellaneous](#miscellaneous)
 *   [Scala](#scala)
 *   [CSS](#css)
 *   [Makefile](#makefile)
@@ -44,6 +44,18 @@
 *   [Go](#go)
 *   [C#](#c-2)
 *   [Thanks](#thanks)
+
+## miscellaneous
+
+*   [ZJU-LLMs/Foundations-of-LLMs](https://github.com/ZJU-LLMs/Foundations-of-LLMs) -
+
+*   [newmanls/rofi-themes-collection](https://github.com/newmanls/rofi-themes-collection) - Themes Collection for Rofi Launcher
+
+*   [BlissRoms-x86/docs](https://github.com/BlissRoms-x86/docs) - Documentation for Bliss OS
+
+*   [waydroid/docs](https://github.com/waydroid/docs) -
+
+*   [jwalton/passport-api-docs](https://github.com/jwalton/passport-api-docs) - Documentation for Passport.js.
 
 ## C++
 
@@ -251,16 +263,6 @@
 
 *   [camenduru/stable-diffusion-webui-colab](https://github.com/camenduru/stable-diffusion-webui-colab) - stable diffusion webui colab
 
-## miscellaneous
-
-*   [newmanls/rofi-themes-collection](https://github.com/newmanls/rofi-themes-collection) - Themes Collection for Rofi Launcher
-
-*   [BlissRoms-x86/docs](https://github.com/BlissRoms-x86/docs) - Documentation for Bliss OS
-
-*   [waydroid/docs](https://github.com/waydroid/docs) -
-
-*   [jwalton/passport-api-docs](https://github.com/jwalton/passport-api-docs) - Documentation for Passport.js.
-
 ## Scala
 
 *   [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for Twitter's Recommendation Algorithm
@@ -270,8 +272,6 @@
 *   [1amSimp1e/dots](https://github.com/1amSimp1e/dots) - Nothing here but Dotfiles & Customization 💫
 
 *   [owl4ce/dotfiles](https://github.com/owl4ce/dotfiles) - :cherry\_blossom: Aesthetic OpenboxWM Environment
-
-*   [cairs00/yzmplayer](https://github.com/cairs00/yzmplayer) -
 
 ## Makefile
 
