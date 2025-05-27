@@ -36,8 +36,8 @@
 *   [TeX](#tex)
 *   [GDScript](#gdscript)
 *   [Vala](#vala)
-*   [Jupyter Notebook](#jupyter-notebook)
 *   [Scala](#scala)
+*   [Jupyter Notebook](#jupyter-notebook)
 *   [CSS](#css)
 *   [Makefile](#makefile)
 *   [Dart](#dart)
@@ -257,21 +257,21 @@
 
 *   [lainsce/notejot](https://github.com/lainsce/notejot) - Stupidly-simple notes app.
 
-## Jupyter Notebook
-
-*   [mcarlisle/mathematics-genealogy](https://github.com/mcarlisle/mathematics-genealogy) - data analysis and visualizations of the Mathematics Genealogy Project
-
-*   [camenduru/stable-diffusion-webui-colab](https://github.com/camenduru/stable-diffusion-webui-colab) - stable diffusion webui colab
-
 ## Scala
 
 *   [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for Twitter's Recommendation Algorithm
+
+## Jupyter Notebook
+
+*   [camenduru/stable-diffusion-webui-colab](https://github.com/camenduru/stable-diffusion-webui-colab) - stable diffusion webui colab
 
 ## CSS
 
 *   [1amSimp1e/dots](https://github.com/1amSimp1e/dots) - Nothing here but Dotfiles & Customization 💫
 
 *   [owl4ce/dotfiles](https://github.com/owl4ce/dotfiles) - :cherry\_blossom: Aesthetic OpenboxWM Environment
+
+*   [cairs00/yzmplayer](https://github.com/cairs00/yzmplayer) -
 
 ## Makefile
 
