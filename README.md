@@ -18,6 +18,7 @@
 
 ## Table of Contents
 
+*   [CSS](#css)
 *   [miscellaneous](#miscellaneous)
 *   [C++](#c)
 *   [Python](#python)
@@ -38,12 +39,19 @@
 *   [Vala](#vala)
 *   [Scala](#scala)
 *   [Jupyter Notebook](#jupyter-notebook)
-*   [CSS](#css)
 *   [Makefile](#makefile)
 *   [Dart](#dart)
 *   [Go](#go)
 *   [C#](#c-2)
 *   [Thanks](#thanks)
+
+## CSS
+
+*   [Diolinux/PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) - A Patch for GIMP 3+ for Photoshop Users
+
+*   [1amSimp1e/dots](https://github.com/1amSimp1e/dots) - Nothing here but Dotfiles & Customization 💫
+
+*   [owl4ce/dotfiles](https://github.com/owl4ce/dotfiles) - :cherry\_blossom: Aesthetic OpenboxWM Environment
 
 ## miscellaneous
 
@@ -264,14 +272,6 @@
 ## Jupyter Notebook
 
 *   [camenduru/stable-diffusion-webui-colab](https://github.com/camenduru/stable-diffusion-webui-colab) - stable diffusion webui colab
-
-## CSS
-
-*   [1amSimp1e/dots](https://github.com/1amSimp1e/dots) - Nothing here but Dotfiles & Customization 💫
-
-*   [owl4ce/dotfiles](https://github.com/owl4ce/dotfiles) - :cherry\_blossom: Aesthetic OpenboxWM Environment
-
-*   [cairs00/yzmplayer](https://github.com/cairs00/yzmplayer) -
 
 ## Makefile
 
