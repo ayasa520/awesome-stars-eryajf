@@ -18,9 +18,9 @@
 
 ## Table of Contents
 
+*   [C++](#c)
 *   [CSS](#css)
 *   [miscellaneous](#miscellaneous)
-*   [C++](#c)
 *   [Python](#python)
 *   [TypeScript](#typescript)
 *   [Shell](#shell)
@@ -45,27 +45,9 @@
 *   [C#](#c-2)
 *   [Thanks](#thanks)
 
-## CSS
-
-*   [Diolinux/PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) - A Patch for GIMP 3+ for Photoshop Users
-
-*   [1amSimp1e/dots](https://github.com/1amSimp1e/dots) - Nothing here but Dotfiles & Customization 💫
-
-*   [owl4ce/dotfiles](https://github.com/owl4ce/dotfiles) - :cherry\_blossom: Aesthetic OpenboxWM Environment
-
-## miscellaneous
-
-*   [ZJU-LLMs/Foundations-of-LLMs](https://github.com/ZJU-LLMs/Foundations-of-LLMs) -
-
-*   [newmanls/rofi-themes-collection](https://github.com/newmanls/rofi-themes-collection) - Themes Collection for Rofi Launcher
-
-*   [BlissRoms-x86/docs](https://github.com/BlissRoms-x86/docs) - Documentation for Bliss OS
-
-*   [waydroid/docs](https://github.com/waydroid/docs) -
-
-*   [jwalton/passport-api-docs](https://github.com/jwalton/passport-api-docs) - Documentation for Passport.js.
-
 ## C++
+
+*   [pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) - Karabiner-Elements is a powerful tool for customizing keyboards on macOS
 
 *   [qwerty12356-wart/test\_libnb](https://github.com/qwerty12356-wart/test_libnb) -
 
@@ -90,6 +72,26 @@
 *   [KikoPlayProject/KikoPlay](https://github.com/KikoPlayProject/KikoPlay) - KikoPlay - NOT ONLY A Full-Featured Danmu Player  不仅仅是全功能弹幕播放器
 
 *   [a-parhom/LightlyShaders](https://github.com/a-parhom/LightlyShaders) - Rounded window corners and outline effect for KWin.
+
+## CSS
+
+*   [Diolinux/PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) - A Patch for GIMP 3+ for Photoshop Users
+
+*   [1amSimp1e/dots](https://github.com/1amSimp1e/dots) - Nothing here but Dotfiles & Customization 💫
+
+*   [owl4ce/dotfiles](https://github.com/owl4ce/dotfiles) - :cherry\_blossom: Aesthetic OpenboxWM Environment
+
+## miscellaneous
+
+*   [ZJU-LLMs/Foundations-of-LLMs](https://github.com/ZJU-LLMs/Foundations-of-LLMs) -
+
+*   [newmanls/rofi-themes-collection](https://github.com/newmanls/rofi-themes-collection) - Themes Collection for Rofi Launcher
+
+*   [BlissRoms-x86/docs](https://github.com/BlissRoms-x86/docs) - Documentation for Bliss OS
+
+*   [waydroid/docs](https://github.com/waydroid/docs) -
+
+*   [jwalton/passport-api-docs](https://github.com/jwalton/passport-api-docs) - Documentation for Passport.js.
 
 ## Python
 
@@ -292,8 +294,6 @@
 *   [RayWangQvQ/BiliBiliToolPro](https://github.com/RayWangQvQ/BiliBiliToolPro) - B 站（bilibili）自动任务工具，支持docker、青龙、k8s等多种部署方式。敏感肌也能用。
 
 *   [ThatCoders/BILIBILI-AI](https://github.com/ThatCoders/BILIBILI-AI) - 哔哩哔哩(b站B站)自动签到
-
-*   [hanmin0822/MisakaTranslator](https://github.com/hanmin0822/MisakaTranslator) - 御坂翻译器—Galgame/文字游戏/漫画多语种实时机翻工具
 
 ## Thanks
 
