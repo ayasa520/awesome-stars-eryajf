@@ -18,8 +18,9 @@
 
 ## Table of Contents
 
+*   [C](#c)
 *   [Shell](#shell)
-*   [C++](#c)
+*   [C++](#c-1)
 *   [CSS](#css)
 *   [miscellaneous](#miscellaneous)
 *   [Python](#python)
@@ -27,7 +28,6 @@
 *   [Rust](#rust)
 *   [JavaScript](#javascript)
 *   [PHP](#php)
-*   [C](#c-1)
 *   [Java](#java)
 *   [Kotlin](#kotlin)
 *   [Typst](#typst)
@@ -42,8 +42,19 @@
 *   [Makefile](#makefile)
 *   [Dart](#dart)
 *   [Go](#go)
-*   [C#](#c-2)
 *   [Thanks](#thanks)
+
+## C
+
+*   [cage-kiosk/cage](https://github.com/cage-kiosk/cage) - A Wayland kiosk
+
+*   [johnfanv2/LenovoLegionLinux](https://github.com/johnfanv2/LenovoLegionLinux) - Driver and tools for controlling Lenovo Legion laptops in Linux including fan control and power mode.
+
+*   [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
+
+*   [rvaiya/keyd](https://github.com/rvaiya/keyd) - A key remapping daemon for linux.
+
+*   [xemu-project/xemu](https://github.com/xemu-project/xemu) - Original Xbox Emulator for Windows, macOS, and Linux (Active Development)
 
 ## Shell
 
@@ -209,16 +220,6 @@
 
 *   [Open-Wine-Components/umu-database](https://github.com/Open-Wine-Components/umu-database) - Contains spreadsheet of game titles for different stores, their store specific code names, and their ULWGL ids.
 
-## C
-
-*   [johnfanv2/LenovoLegionLinux](https://github.com/johnfanv2/LenovoLegionLinux) - Driver and tools for controlling Lenovo Legion laptops in Linux including fan control and power mode.
-
-*   [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
-
-*   [rvaiya/keyd](https://github.com/rvaiya/keyd) - A key remapping daemon for linux.
-
-*   [xemu-project/xemu](https://github.com/xemu-project/xemu) - Original Xbox Emulator for Windows, macOS, and Linux (Active Development)
-
 ## Java
 
 *   [nightmare-space/android\_api\_server](https://github.com/nightmare-space/android_api_server) - android server, based on HTTP
@@ -290,10 +291,6 @@
 ## Go
 
 *   [JasonKhew96/biliroaming-go-server](https://github.com/JasonKhew96/biliroaming-go-server) -
-
-## C\#
-
-*   [RayWangQvQ/BiliBiliToolPro](https://github.com/RayWangQvQ/BiliBiliToolPro) - B 站（bilibili）自动任务工具，支持docker、青龙、k8s等多种部署方式。敏感肌也能用。
 
 ## Thanks
 
