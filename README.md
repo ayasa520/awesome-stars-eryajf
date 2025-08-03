@@ -19,13 +19,13 @@
 ## Table of Contents
 
 *   [C](#c)
+*   [Rust](#rust)
 *   [Shell](#shell)
 *   [C++](#c-1)
 *   [CSS](#css)
 *   [miscellaneous](#miscellaneous)
 *   [Python](#python)
 *   [TypeScript](#typescript)
-*   [Rust](#rust)
 *   [JavaScript](#javascript)
 *   [PHP](#php)
 *   [Java](#java)
@@ -46,6 +46,8 @@
 
 ## C
 
+*   [PerformanC/ReZygisk](https://github.com/PerformanC/ReZygisk) - Transparent implementation of Zygisk.
+
 *   [cage-kiosk/cage](https://github.com/cage-kiosk/cage) - A Wayland kiosk
 
 *   [johnfanv2/LenovoLegionLinux](https://github.com/johnfanv2/LenovoLegionLinux) - Driver and tools for controlling Lenovo Legion laptops in Linux including fan control and power mode.
@@ -55,6 +57,18 @@
 *   [rvaiya/keyd](https://github.com/rvaiya/keyd) - A key remapping daemon for linux.
 
 *   [xemu-project/xemu](https://github.com/xemu-project/xemu) - Original Xbox Emulator for Windows, macOS, and Linux (Active Development)
+
+## Rust
+
+*   [mistrmochov/WaydroidSU](https://github.com/mistrmochov/WaydroidSU) - WaydroidSU, CLI Magisk manager and installer for Waydroid written in Rust
+
+*   [sigoden/window-switcher](https://github.com/sigoden/window-switcher) - Easily switch between windows of the same app with Alt+\` (Backtick), also switch between apps with Alt+Tab.
+
+*   [H-M-H/Weylus](https://github.com/H-M-H/Weylus) - Use your tablet as graphic tablet/touch screen on your computer.
+
+*   [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
+
+*   [cloudflare/wrangler-legacy](https://github.com/cloudflare/wrangler-legacy) - 🤠  Home to Wrangler v1 (deprecated)
 
 ## Shell
 
@@ -186,16 +200,6 @@
 
 *   [TomDoesTech/REST-API-Tutorial-Updated](https://github.com/TomDoesTech/REST-API-Tutorial-Updated) -
 
-## Rust
-
-*   [sigoden/window-switcher](https://github.com/sigoden/window-switcher) - Easily switch between windows of the same app with Alt+\` (Backtick), also switch between apps with Alt+Tab.
-
-*   [H-M-H/Weylus](https://github.com/H-M-H/Weylus) - Use your tablet as graphic tablet/touch screen on your computer.
-
-*   [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
-
-*   [cloudflare/wrangler-legacy](https://github.com/cloudflare/wrangler-legacy) - 🤠  Home to Wrangler v1 (deprecated)
-
 ## JavaScript
 
 *   [DG-LAB-OPENSOURCE/DG-LAB-OPENSOURCE](https://github.com/DG-LAB-OPENSOURCE/DG-LAB-OPENSOURCE) - The Bluetooth Protocol Of DG-LAB Devices
@@ -214,8 +218,6 @@
 
 *   [Automattic/mongoose](https://github.com/Automattic/mongoose) - MongoDB object modeling designed to work in an asynchronous environment.
 
-*   [twikoojs/twikoo](https://github.com/twikoojs/twikoo) - 💬 一个简洁、安全、免费的静态网站评论系统 | A simple, safe, free comment system.
-
 ## PHP
 
 *   [Open-Wine-Components/umu-database](https://github.com/Open-Wine-Components/umu-database) - Contains spreadsheet of game titles for different stores, their store specific code names, and their ULWGL ids.
@@ -233,8 +235,6 @@
 *   [ikws4/WeiJu2](https://github.com/ikws4/WeiJu2) - Scriptable Xposed Module
 
 *   [Xtr126/XtMapper](https://github.com/Xtr126/XtMapper) - Keyboard and mouse input mapper
-
-*   [YDJSIR-NJU/NJUSE-22-SE3](https://github.com/YDJSIR-NJU/NJUSE-22-SE3) - Collection of Software Engineering and Computing Ⅲ @ Software Institute, Nanjing University
 
 ## Kotlin
 
