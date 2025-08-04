@@ -18,8 +18,8 @@
 
 ## Table of Contents
 
-*   [C](#c)
 *   [Rust](#rust)
+*   [C](#c)
 *   [Shell](#shell)
 *   [C++](#c-1)
 *   [CSS](#css)
@@ -41,8 +41,21 @@
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [Makefile](#makefile)
 *   [Dart](#dart)
-*   [Go](#go)
 *   [Thanks](#thanks)
+
+## Rust
+
+*   [ShadowBlip/InputPlumber](https://github.com/ShadowBlip/InputPlumber) - Open source input router and remapper daemon for Linux
+
+*   [mistrmochov/WaydroidSU](https://github.com/mistrmochov/WaydroidSU) - WaydroidSU, CLI Magisk manager and installer for Waydroid written in Rust
+
+*   [sigoden/window-switcher](https://github.com/sigoden/window-switcher) - Easily switch between windows of the same app with Alt+\` (Backtick), also switch between apps with Alt+Tab.
+
+*   [H-M-H/Weylus](https://github.com/H-M-H/Weylus) - Use your tablet as graphic tablet/touch screen on your computer.
+
+*   [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
+
+*   [cloudflare/wrangler-legacy](https://github.com/cloudflare/wrangler-legacy) - 🤠  Home to Wrangler v1 (deprecated)
 
 ## C
 
@@ -57,18 +70,6 @@
 *   [rvaiya/keyd](https://github.com/rvaiya/keyd) - A key remapping daemon for linux.
 
 *   [xemu-project/xemu](https://github.com/xemu-project/xemu) - Original Xbox Emulator for Windows, macOS, and Linux (Active Development)
-
-## Rust
-
-*   [mistrmochov/WaydroidSU](https://github.com/mistrmochov/WaydroidSU) - WaydroidSU, CLI Magisk manager and installer for Waydroid written in Rust
-
-*   [sigoden/window-switcher](https://github.com/sigoden/window-switcher) - Easily switch between windows of the same app with Alt+\` (Backtick), also switch between apps with Alt+Tab.
-
-*   [H-M-H/Weylus](https://github.com/H-M-H/Weylus) - Use your tablet as graphic tablet/touch screen on your computer.
-
-*   [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
-
-*   [cloudflare/wrangler-legacy](https://github.com/cloudflare/wrangler-legacy) - 🤠  Home to Wrangler v1 (deprecated)
 
 ## Shell
 
@@ -287,10 +288,6 @@
 ## Dart
 
 *   [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) - 🎵 Plays & manages your music library. Looks beautiful & juicy.
-
-## Go
-
-*   [JasonKhew96/biliroaming-go-server](https://github.com/JasonKhew96/biliroaming-go-server) -
 
 ## Thanks
 
