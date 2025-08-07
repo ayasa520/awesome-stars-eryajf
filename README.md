@@ -18,6 +18,7 @@
 
 ## Table of Contents
 
+*   [Go](#go)
 *   [C++](#c)
 *   [Rust](#rust)
 *   [C](#c-1)
@@ -42,6 +43,10 @@
 *   [Makefile](#makefile)
 *   [Dart](#dart)
 *   [Thanks](#thanks)
+
+## Go
+
+*   [golangci/golangci-lint](https://github.com/golangci/golangci-lint) - Fast linters runner for Go
 
 ## C++
 
@@ -216,8 +221,6 @@
 *   [jeffshee/gnome-ext-hanabi](https://github.com/jeffshee/gnome-ext-hanabi) - Live Wallpaper for GNOME
 
 *   [walinejs/auth](https://github.com/walinejs/auth) - Social account auth service, support github, twitter, facebook, google
-
-*   [Automattic/mongoose](https://github.com/Automattic/mongoose) - MongoDB object modeling designed to work in an asynchronous environment.
 
 ## PHP
 
