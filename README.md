@@ -18,6 +18,8 @@
 
 ## Table of Contents
 
+*   [Kotlin](#kotlin)
+*   [Python](#python)
 *   [Go](#go)
 *   [C++](#c)
 *   [Rust](#rust)
@@ -25,12 +27,10 @@
 *   [Shell](#shell)
 *   [CSS](#css)
 *   [miscellaneous](#miscellaneous)
-*   [Python](#python)
 *   [TypeScript](#typescript)
 *   [JavaScript](#javascript)
 *   [PHP](#php)
 *   [Java](#java)
-*   [Kotlin](#kotlin)
 *   [Typst](#typst)
 *   [HTML](#html)
 *   [QML](#qml)
@@ -44,103 +44,17 @@
 *   [Dart](#dart)
 *   [Thanks](#thanks)
 
-## Go
+## Kotlin
 
-*   [golangci/golangci-lint](https://github.com/golangci/golangci-lint) - Fast linters runner for Go
+*   [KDE/kdeconnect-android](https://github.com/KDE/kdeconnect-android) - Native Android port of the KDE Connect Qt app
 
-## C++
+*   [ktorio/ktor-documentation](https://github.com/ktorio/ktor-documentation) - Documentation for the Ktor framework.
 
-*   [MhmRdd/NoHello](https://github.com/MhmRdd/NoHello) - A Zygisk module to hide root.
-
-*   [pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) - Karabiner-Elements is a powerful tool for customizing keyboards on macOS
-
-*   [qwerty12356-wart/test\_libnb](https://github.com/qwerty12356-wart/test_libnb) -
-
-*   [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
-
-*   [Redot-Engine/redot-engine](https://github.com/Redot-Engine/redot-engine) - Redot Engine – Multi-platform 2D and 3D game engine
-
-*   [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
-
-*   [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
-
-*   [zhuzichu520/FluentUI](https://github.com/zhuzichu520/FluentUI) - FluentUI for QML
-
-*   [Swordfish90/qmltermwidget](https://github.com/Swordfish90/qmltermwidget) - QML port of qtermwidget
-
-*   [lxqt/qtermwidget](https://github.com/lxqt/qtermwidget) - The terminal widget for QTerminal
-
-*   [barry-ran/QtScrcpyCore](https://github.com/barry-ran/QtScrcpyCore) - Android real-time display control library
-
-*   [KikoPlayProject/KikoPlay](https://github.com/KikoPlayProject/KikoPlay) - KikoPlay - NOT ONLY A Full-Featured Danmu Player  不仅仅是全功能弹幕播放器
-
-*   [a-parhom/LightlyShaders](https://github.com/a-parhom/LightlyShaders) - Rounded window corners and outline effect for KWin.
-
-## Rust
-
-*   [ShadowBlip/InputPlumber](https://github.com/ShadowBlip/InputPlumber) - Open source input router and remapper daemon for Linux
-
-*   [mistrmochov/WaydroidSU](https://github.com/mistrmochov/WaydroidSU) - WaydroidSU, CLI Magisk manager and installer for Waydroid written in Rust
-
-*   [sigoden/window-switcher](https://github.com/sigoden/window-switcher) - Easily switch between windows of the same app with Alt+\` (Backtick), also switch between apps with Alt+Tab.
-
-*   [H-M-H/Weylus](https://github.com/H-M-H/Weylus) - Use your tablet as graphic tablet/touch screen on your computer.
-
-*   [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
-
-*   [cloudflare/wrangler-legacy](https://github.com/cloudflare/wrangler-legacy) - 🤠  Home to Wrangler v1 (deprecated)
-
-## C
-
-*   [PerformanC/ReZygisk](https://github.com/PerformanC/ReZygisk) - Transparent implementation of Zygisk.
-
-*   [cage-kiosk/cage](https://github.com/cage-kiosk/cage) - A Wayland kiosk
-
-*   [johnfanv2/LenovoLegionLinux](https://github.com/johnfanv2/LenovoLegionLinux) - Driver and tools for controlling Lenovo Legion laptops in Linux including fan control and power mode.
-
-*   [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
-
-*   [rvaiya/keyd](https://github.com/rvaiya/keyd) - A key remapping daemon for linux.
-
-*   [xemu-project/xemu](https://github.com/xemu-project/xemu) - Original Xbox Emulator for Windows, macOS, and Linux (Active Development)
-
-## Shell
-
-*   [YogSottot/waydroid\_stuff](https://github.com/YogSottot/waydroid_stuff) - Various scripts for building waydroid and waydroid images
-
-*   [YageGeng/thinkbook16p-gen5-sound-fix](https://github.com/YageGeng/thinkbook16p-gen5-sound-fix) - thinkbook 16p gen5 sound fix
-
-*   [nitanmarcel/PlayInterityPIFs](https://github.com/nitanmarcel/PlayInterityPIFs) - Repository with pre-generated pif.json files to use with PlayIntegrityModule
-
-*   [ilhan-athn7/android\_proprietary\_native\_bridge](https://github.com/ilhan-athn7/android_proprietary_native_bridge) - A collection of android DTB(Dynamic Binary Translator) implementations pulled from Chromebook CrosVM software and Windows Subsystem For Android.
-
-*   [newbit1/rootAVD](https://github.com/newbit1/rootAVD) - Script to root AVDs running with QEMU Emulator from Android Studio
-
-*   [remote-android/redroid-doc](https://github.com/remote-android/redroid-doc) - redroid (Remote-Android) is a multi-arch, GPU enabled, Android in Cloud solution. Track issues / docs here
-
-## CSS
-
-*   [Diolinux/PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) - A Patch for GIMP 3+ for Photoshop Users
-
-*   [Floorp-Projects/Floorp](https://github.com/Floorp-Projects/Floorp) - All of source code of version 10 or later of Floorp Browser, the most Advanced and Fastest Firefox derivative 🦊
-
-*   [1amSimp1e/dots](https://github.com/1amSimp1e/dots) - Nothing here but Dotfiles & Customization 💫
-
-*   [owl4ce/dotfiles](https://github.com/owl4ce/dotfiles) - :cherry\_blossom: Aesthetic OpenboxWM Environment
-
-## miscellaneous
-
-*   [ZJU-LLMs/Foundations-of-LLMs](https://github.com/ZJU-LLMs/Foundations-of-LLMs) -
-
-*   [newmanls/rofi-themes-collection](https://github.com/newmanls/rofi-themes-collection) - Themes Collection for Rofi Launcher
-
-*   [BlissRoms-x86/docs](https://github.com/BlissRoms-x86/docs) - Documentation for Bliss OS
-
-*   [waydroid/docs](https://github.com/waydroid/docs) -
-
-*   [jwalton/passport-api-docs](https://github.com/jwalton/passport-api-docs) - Documentation for Passport.js.
+*   [tiann/KernelSU](https://github.com/tiann/KernelSU) - A Kernel based root solution for Android
 
 ## Python
+
+*   [jingyaogong/minimind](https://github.com/jingyaogong/minimind) - 🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!
 
 *   [FoundationAgents/OpenManus](https://github.com/FoundationAgents/OpenManus) - No fortress, purely open ground.  OpenManus is Coming.
 
@@ -194,6 +108,98 @@
 
 *   [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Monterey + Ventura + Sonoma support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.
 
+## Go
+
+*   [golangci/golangci-lint](https://github.com/golangci/golangci-lint) - Fast linters runner for Go
+
+## C++
+
+*   [MhmRdd/NoHello](https://github.com/MhmRdd/NoHello) - A Zygisk module to hide root.
+
+*   [pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) - Karabiner-Elements is a powerful tool for customizing keyboards on macOS
+
+*   [qwerty12356-wart/test\_libnb](https://github.com/qwerty12356-wart/test_libnb) -
+
+*   [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
+
+*   [Redot-Engine/redot-engine](https://github.com/Redot-Engine/redot-engine) - Redot Engine – Multi-platform 2D and 3D game engine
+
+*   [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
+
+*   [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
+
+*   [zhuzichu520/FluentUI](https://github.com/zhuzichu520/FluentUI) - FluentUI for QML
+
+*   [Swordfish90/qmltermwidget](https://github.com/Swordfish90/qmltermwidget) - QML port of qtermwidget
+
+*   [lxqt/qtermwidget](https://github.com/lxqt/qtermwidget) - The terminal widget for QTerminal
+
+*   [barry-ran/QtScrcpyCore](https://github.com/barry-ran/QtScrcpyCore) - Android real-time display control library
+
+*   [KikoPlayProject/KikoPlay](https://github.com/KikoPlayProject/KikoPlay) - KikoPlay - NOT ONLY A Full-Featured Danmu Player  不仅仅是全功能弹幕播放器
+
+## Rust
+
+*   [ShadowBlip/InputPlumber](https://github.com/ShadowBlip/InputPlumber) - Open source input router and remapper daemon for Linux
+
+*   [mistrmochov/WaydroidSU](https://github.com/mistrmochov/WaydroidSU) - WaydroidSU, CLI Magisk manager and installer for Waydroid written in Rust
+
+*   [sigoden/window-switcher](https://github.com/sigoden/window-switcher) - Easily switch between windows of the same app with Alt+\` (Backtick), also switch between apps with Alt+Tab.
+
+*   [H-M-H/Weylus](https://github.com/H-M-H/Weylus) - Use your tablet as graphic tablet/touch screen on your computer.
+
+*   [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
+
+## C
+
+*   [PerformanC/ReZygisk](https://github.com/PerformanC/ReZygisk) - Transparent implementation of Zygisk.
+
+*   [cage-kiosk/cage](https://github.com/cage-kiosk/cage) - A Wayland kiosk
+
+*   [johnfanv2/LenovoLegionLinux](https://github.com/johnfanv2/LenovoLegionLinux) - Driver and tools for controlling Lenovo Legion laptops in Linux including fan control and power mode.
+
+*   [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
+
+*   [rvaiya/keyd](https://github.com/rvaiya/keyd) - A key remapping daemon for linux.
+
+*   [xemu-project/xemu](https://github.com/xemu-project/xemu) - Original Xbox Emulator for Windows, macOS, and Linux (Active Development)
+
+## Shell
+
+*   [YogSottot/waydroid\_stuff](https://github.com/YogSottot/waydroid_stuff) - Various scripts for building waydroid and waydroid images
+
+*   [YageGeng/thinkbook16p-gen5-sound-fix](https://github.com/YageGeng/thinkbook16p-gen5-sound-fix) - thinkbook 16p gen5 sound fix
+
+*   [nitanmarcel/PlayInterityPIFs](https://github.com/nitanmarcel/PlayInterityPIFs) - Repository with pre-generated pif.json files to use with PlayIntegrityModule
+
+*   [ilhan-athn7/android\_proprietary\_native\_bridge](https://github.com/ilhan-athn7/android_proprietary_native_bridge) - A collection of android DTB(Dynamic Binary Translator) implementations pulled from Chromebook CrosVM software and Windows Subsystem For Android.
+
+*   [newbit1/rootAVD](https://github.com/newbit1/rootAVD) - Script to root AVDs running with QEMU Emulator from Android Studio
+
+*   [remote-android/redroid-doc](https://github.com/remote-android/redroid-doc) - redroid (Remote-Android) is a multi-arch, GPU enabled, Android in Cloud solution. Track issues / docs here
+
+## CSS
+
+*   [Diolinux/PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) - A Patch for GIMP 3+ for Photoshop Users
+
+*   [Floorp-Projects/Floorp](https://github.com/Floorp-Projects/Floorp) - All of source code of version 10 or later of Floorp Browser, the most Advanced and Fastest Firefox derivative 🦊
+
+*   [1amSimp1e/dots](https://github.com/1amSimp1e/dots) - Nothing here but Dotfiles & Customization 💫
+
+*   [owl4ce/dotfiles](https://github.com/owl4ce/dotfiles) - :cherry\_blossom: Aesthetic OpenboxWM Environment
+
+## miscellaneous
+
+*   [ZJU-LLMs/Foundations-of-LLMs](https://github.com/ZJU-LLMs/Foundations-of-LLMs) -
+
+*   [newmanls/rofi-themes-collection](https://github.com/newmanls/rofi-themes-collection) - Themes Collection for Rofi Launcher
+
+*   [BlissRoms-x86/docs](https://github.com/BlissRoms-x86/docs) - Documentation for Bliss OS
+
+*   [waydroid/docs](https://github.com/waydroid/docs) -
+
+*   [jwalton/passport-api-docs](https://github.com/jwalton/passport-api-docs) - Documentation for Passport.js.
+
 ## TypeScript
 
 *   [huxulm/lc-rating](https://github.com/huxulm/lc-rating) - 力扣周赛训练小工具，欢迎使用🎈
@@ -239,12 +245,6 @@
 *   [ikws4/WeiJu2](https://github.com/ikws4/WeiJu2) - Scriptable Xposed Module
 
 *   [Xtr126/XtMapper](https://github.com/Xtr126/XtMapper) - Keyboard and mouse input mapper
-
-## Kotlin
-
-*   [ktorio/ktor-documentation](https://github.com/ktorio/ktor-documentation) - Documentation for the Ktor framework.
-
-*   [tiann/KernelSU](https://github.com/tiann/KernelSU) - A Kernel based root solution for Android
 
 ## Typst
 
