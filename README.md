@@ -18,12 +18,12 @@
 
 ## Table of Contents
 
-*   [C++](#c)
+*   [C](#c)
+*   [C++](#c-1)
 *   [Kotlin](#kotlin)
 *   [Python](#python)
 *   [Go](#go)
 *   [Rust](#rust)
-*   [C](#c-1)
 *   [Shell](#shell)
 *   [CSS](#css)
 *   [miscellaneous](#miscellaneous)
@@ -41,8 +41,23 @@
 *   [Scala](#scala)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [Makefile](#makefile)
-*   [Dart](#dart)
 *   [Thanks](#thanks)
+
+## C
+
+*   [mjakeman/extension-manager](https://github.com/mjakeman/extension-manager) - A utility for browsing and installing GNOME Shell Extensions.
+
+*   [PerformanC/ReZygisk](https://github.com/PerformanC/ReZygisk) - Transparent implementation of Zygisk.
+
+*   [cage-kiosk/cage](https://github.com/cage-kiosk/cage) - A Wayland kiosk
+
+*   [johnfanv2/LenovoLegionLinux](https://github.com/johnfanv2/LenovoLegionLinux) - Driver and tools for controlling Lenovo Legion laptops in Linux including fan control and power mode.
+
+*   [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
+
+*   [rvaiya/keyd](https://github.com/rvaiya/keyd) - A key remapping daemon for linux.
+
+*   [xemu-project/xemu](https://github.com/xemu-project/xemu) - Original Xbox Emulator for Windows, macOS, and Linux (Active Development)
 
 ## C++
 
@@ -149,20 +164,6 @@
 *   [H-M-H/Weylus](https://github.com/H-M-H/Weylus) - Use your tablet as graphic tablet/touch screen on your computer.
 
 *   [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
-
-## C
-
-*   [PerformanC/ReZygisk](https://github.com/PerformanC/ReZygisk) - Transparent implementation of Zygisk.
-
-*   [cage-kiosk/cage](https://github.com/cage-kiosk/cage) - A Wayland kiosk
-
-*   [johnfanv2/LenovoLegionLinux](https://github.com/johnfanv2/LenovoLegionLinux) - Driver and tools for controlling Lenovo Legion laptops in Linux including fan control and power mode.
-
-*   [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
-
-*   [rvaiya/keyd](https://github.com/rvaiya/keyd) - A key remapping daemon for linux.
-
-*   [xemu-project/xemu](https://github.com/xemu-project/xemu) - Original Xbox Emulator for Windows, macOS, and Linux (Active Development)
 
 ## Shell
 
@@ -287,10 +288,6 @@
 *   [supremegamers/vendor\_google\_proprietary\_ndk\_translation-prebuilt](https://github.com/supremegamers/vendor_google_proprietary_ndk_translation-prebuilt) - Prebuilt of Google's ndk\_translation native bridge
 
 *   [supremegamers/vendor\_intel\_proprietary\_houdini](https://github.com/supremegamers/vendor_intel_proprietary_houdini) -
-
-## Dart
-
-*   [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) - 🎵 Plays & manages your music library. Looks beautiful & juicy.
 
 ## Thanks
 
