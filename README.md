@@ -18,9 +18,9 @@
 
 ## Table of Contents
 
+*   [Kotlin](#kotlin)
 *   [C](#c)
 *   [C++](#c-1)
-*   [Kotlin](#kotlin)
 *   [Python](#python)
 *   [Go](#go)
 *   [Rust](#rust)
@@ -42,6 +42,16 @@
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [Makefile](#makefile)
 *   [Thanks](#thanks)
+
+## Kotlin
+
+*   [reveny/Android-Native-Root-Detector](https://github.com/reveny/Android-Native-Root-Detector) - A tool to detect root on android
+
+*   [KDE/kdeconnect-android](https://github.com/KDE/kdeconnect-android) - Native Android port of the KDE Connect Qt app
+
+*   [ktorio/ktor-documentation](https://github.com/ktorio/ktor-documentation) - Documentation for the Ktor framework.
+
+*   [tiann/KernelSU](https://github.com/tiann/KernelSU) - A Kernel based root solution for Android
 
 ## C
 
@@ -86,14 +96,6 @@
 *   [barry-ran/QtScrcpyCore](https://github.com/barry-ran/QtScrcpyCore) - Android real-time display control library
 
 *   [KikoPlayProject/KikoPlay](https://github.com/KikoPlayProject/KikoPlay) - KikoPlay - NOT ONLY A Full-Featured Danmu Player  不仅仅是全功能弹幕播放器
-
-## Kotlin
-
-*   [KDE/kdeconnect-android](https://github.com/KDE/kdeconnect-android) - Native Android port of the KDE Connect Qt app
-
-*   [ktorio/ktor-documentation](https://github.com/ktorio/ktor-documentation) - Documentation for the Ktor framework.
-
-*   [tiann/KernelSU](https://github.com/tiann/KernelSU) - A Kernel based root solution for Android
 
 ## Python
 
@@ -210,8 +212,6 @@
 *   [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Build and run custom agents across your IDE, terminal, and CI
 
 *   [vixalien/sticky](https://github.com/vixalien/sticky) - A simple sticky notes app for GNOME
-
-*   [inversify/inversify-express-utils](https://github.com/inversify/inversify-express-utils) - Some utilities for the development of Express application with InversifyJS
 
 ## JavaScript
 
