@@ -18,9 +18,9 @@
 
 ## Table of Contents
 
-*   [C++](#c)
+*   [C](#c)
+*   [C++](#c-1)
 *   [Kotlin](#kotlin)
-*   [C](#c-1)
 *   [Python](#python)
 *   [Go](#go)
 *   [Rust](#rust)
@@ -42,6 +42,24 @@
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [Makefile](#makefile)
 *   [Thanks](#thanks)
+
+## C
+
+*   [yuandaimaahao/AndroidFrameworkTutorial](https://github.com/yuandaimaahao/AndroidFrameworkTutorial) - 写给应用开发的 Android Framework 教程
+
+*   [mjakeman/extension-manager](https://github.com/mjakeman/extension-manager) - A utility for browsing and installing GNOME Shell Extensions.
+
+*   [PerformanC/ReZygisk](https://github.com/PerformanC/ReZygisk) - Transparent implementation of Zygisk.
+
+*   [cage-kiosk/cage](https://github.com/cage-kiosk/cage) - A Wayland kiosk
+
+*   [johnfanv2/LenovoLegionLinux](https://github.com/johnfanv2/LenovoLegionLinux) - Driver and tools for controlling Lenovo Legion laptops in Linux including fan control and power mode.
+
+*   [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
+
+*   [rvaiya/keyd](https://github.com/rvaiya/keyd) - A key remapping daemon for linux.
+
+*   [xemu-project/xemu](https://github.com/xemu-project/xemu) - Original Xbox Emulator for Windows, macOS, and Linux (Active Development)
 
 ## C++
 
@@ -82,22 +100,6 @@
 *   [ktorio/ktor-documentation](https://github.com/ktorio/ktor-documentation) - Documentation for the Ktor framework.
 
 *   [tiann/KernelSU](https://github.com/tiann/KernelSU) - A Kernel based root solution for Android
-
-## C
-
-*   [mjakeman/extension-manager](https://github.com/mjakeman/extension-manager) - A utility for browsing and installing GNOME Shell Extensions.
-
-*   [PerformanC/ReZygisk](https://github.com/PerformanC/ReZygisk) - Transparent implementation of Zygisk.
-
-*   [cage-kiosk/cage](https://github.com/cage-kiosk/cage) - A Wayland kiosk
-
-*   [johnfanv2/LenovoLegionLinux](https://github.com/johnfanv2/LenovoLegionLinux) - Driver and tools for controlling Lenovo Legion laptops in Linux including fan control and power mode.
-
-*   [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
-
-*   [rvaiya/keyd](https://github.com/rvaiya/keyd) - A key remapping daemon for linux.
-
-*   [xemu-project/xemu](https://github.com/xemu-project/xemu) - Original Xbox Emulator for Windows, macOS, and Linux (Active Development)
 
 ## Python
 
@@ -226,8 +228,6 @@
 *   [ixovo/Cloudflare-Workers-E5Renew](https://github.com/ixovo/Cloudflare-Workers-E5Renew) - Cloudflare Workers for E5 Renewal
 
 *   [jeffshee/gnome-ext-hanabi](https://github.com/jeffshee/gnome-ext-hanabi) - Live Wallpaper for GNOME
-
-*   [walinejs/auth](https://github.com/walinejs/auth) - Social account auth service, support github, twitter, facebook, google
 
 ## PHP
 
