@@ -18,9 +18,9 @@
 
 ## Table of Contents
 
+*   [C](#c)
 *   [TypeScript](#typescript)
 *   [Go](#go)
-*   [C](#c)
 *   [C++](#c-1)
 *   [Kotlin](#kotlin)
 *   [Python](#python)
@@ -43,6 +43,26 @@
 *   [Makefile](#makefile)
 *   [Thanks](#thanks)
 
+## C
+
+*   [GNOME/libmanette](https://github.com/GNOME/libmanette) - Read-only mirror of https://gitlab.gnome.org/GNOME/libmanette
+
+*   [yuandaimaahao/AndroidFrameworkTutorial](https://github.com/yuandaimaahao/AndroidFrameworkTutorial) - 写给应用开发的 Android Framework 教程
+
+*   [mjakeman/extension-manager](https://github.com/mjakeman/extension-manager) - A utility for browsing and installing GNOME Shell Extensions.
+
+*   [PerformanC/ReZygisk](https://github.com/PerformanC/ReZygisk) - Transparent implementation of Zygisk.
+
+*   [cage-kiosk/cage](https://github.com/cage-kiosk/cage) - A Wayland kiosk
+
+*   [johnfanv2/LenovoLegionLinux](https://github.com/johnfanv2/LenovoLegionLinux) - Driver and tools for controlling Lenovo Legion laptops in Linux including fan control and power mode.
+
+*   [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
+
+*   [rvaiya/keyd](https://github.com/rvaiya/keyd) - A key remapping daemon for linux.
+
+*   [xemu-project/xemu](https://github.com/xemu-project/xemu) - Original Xbox Emulator for Windows, macOS, and Linux (Active Development)
+
 ## TypeScript
 
 *   [romanlefler/SimpleWeather](https://github.com/romanlefler/SimpleWeather) - A highly configurable GNOME shell extension for viewing the weather.
@@ -60,24 +80,6 @@
 *   [SpectoLabs/hoverfly](https://github.com/SpectoLabs/hoverfly) - Lightweight service virtualization/ API simulation / API mocking tool for developers and testers
 
 *   [golangci/golangci-lint](https://github.com/golangci/golangci-lint) - Fast linters runner for Go
-
-## C
-
-*   [yuandaimaahao/AndroidFrameworkTutorial](https://github.com/yuandaimaahao/AndroidFrameworkTutorial) - 写给应用开发的 Android Framework 教程
-
-*   [mjakeman/extension-manager](https://github.com/mjakeman/extension-manager) - A utility for browsing and installing GNOME Shell Extensions.
-
-*   [PerformanC/ReZygisk](https://github.com/PerformanC/ReZygisk) - Transparent implementation of Zygisk.
-
-*   [cage-kiosk/cage](https://github.com/cage-kiosk/cage) - A Wayland kiosk
-
-*   [johnfanv2/LenovoLegionLinux](https://github.com/johnfanv2/LenovoLegionLinux) - Driver and tools for controlling Lenovo Legion laptops in Linux including fan control and power mode.
-
-*   [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
-
-*   [rvaiya/keyd](https://github.com/rvaiya/keyd) - A key remapping daemon for linux.
-
-*   [xemu-project/xemu](https://github.com/xemu-project/xemu) - Original Xbox Emulator for Windows, macOS, and Linux (Active Development)
 
 ## C++
 
@@ -194,8 +196,6 @@
 *   [newbit1/rootAVD](https://github.com/newbit1/rootAVD) - Script to root AVDs running with QEMU Emulator from Android Studio
 
 *   [remote-android/redroid-doc](https://github.com/remote-android/redroid-doc) - redroid (Remote-Android) is a multi-arch, GPU enabled, Android in Cloud solution. Track issues / docs here
-
-*   [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Monterey + Ventura + Sonoma support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.
 
 ## CSS
 
