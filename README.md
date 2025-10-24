@@ -45,6 +45,8 @@
 
 ## Kotlin
 
+*   [Nightdavisao/ConnectivityHack](https://github.com/Nightdavisao/ConnectivityHack) - (Xposed module) Force hasTransport(WIFI)=true even though the device isn't connected to wi-fi
+
 *   [beakthoven/TrickyStoreOSS](https://github.com/beakthoven/TrickyStoreOSS) - Open source alternative to proprietary Tricky Store module
 
 *   [reveny/Android-Native-Root-Detector](https://github.com/reveny/Android-Native-Root-Detector) - A tool to detect root on android
@@ -194,8 +196,6 @@
 *   [ilhan-athn7/android\_proprietary\_native\_bridge](https://github.com/ilhan-athn7/android_proprietary_native_bridge) - A collection of android DTB(Dynamic Binary Translator) implementations pulled from Chromebook CrosVM software and Windows Subsystem For Android.
 
 *   [newbit1/rootAVD](https://github.com/newbit1/rootAVD) - Script to root AVDs running with QEMU Emulator from Android Studio
-
-*   [remote-android/redroid-doc](https://github.com/remote-android/redroid-doc) - redroid (Remote-Android) is a multi-arch, GPU enabled, Android in Cloud solution. Track issues / docs here
 
 ## CSS
 
