@@ -18,6 +18,7 @@
 
 ## Table of Contents
 
+*   [GLSL](#glsl)
 *   [Kotlin](#kotlin)
 *   [C](#c)
 *   [TypeScript](#typescript)
@@ -42,6 +43,10 @@
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [Makefile](#makefile)
 *   [Thanks](#thanks)
+
+## GLSL
+
+*   [noelsimbolon/mpv-config](https://github.com/noelsimbolon/mpv-config) - 🎥 High-quality configuration for mpv media player
 
 ## Kotlin
 
@@ -194,8 +199,6 @@
 *   [nitanmarcel/PlayInterityPIFs](https://github.com/nitanmarcel/PlayInterityPIFs) - Repository with pre-generated pif.json files to use with PlayIntegrityModule
 
 *   [ilhan-athn7/android\_proprietary\_native\_bridge](https://github.com/ilhan-athn7/android_proprietary_native_bridge) - A collection of android DTB(Dynamic Binary Translator) implementations pulled from Chromebook CrosVM software and Windows Subsystem For Android.
-
-*   [newbit1/rootAVD](https://github.com/newbit1/rootAVD) - Script to root AVDs running with QEMU Emulator from Android Studio
 
 ## CSS
 
