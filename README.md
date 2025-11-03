@@ -18,12 +18,13 @@
 
 ## Table of Contents
 
+*   [C#](#c)
 *   [GLSL](#glsl)
 *   [Kotlin](#kotlin)
-*   [C](#c)
+*   [C](#c-1)
 *   [TypeScript](#typescript)
 *   [Go](#go)
-*   [C++](#c-1)
+*   [C++](#c-2)
 *   [Python](#python)
 *   [Rust](#rust)
 *   [Shell](#shell)
@@ -43,6 +44,10 @@
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [Makefile](#makefile)
 *   [Thanks](#thanks)
+
+## C\#
+
+*   [mxgmn/WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse) - Bitmap & tilemap generation from a single example with the help of ideas from quantum mechanics
 
 ## GLSL
 
@@ -215,8 +220,6 @@
 *   [ZJU-LLMs/Foundations-of-LLMs](https://github.com/ZJU-LLMs/Foundations-of-LLMs) -
 
 *   [newmanls/rofi-themes-collection](https://github.com/newmanls/rofi-themes-collection) - Themes Collection for Rofi Launcher
-
-*   [BlissRoms-x86/docs](https://github.com/BlissRoms-x86/docs) - Documentation for Bliss OS
 
 ## JavaScript
 
