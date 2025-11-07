@@ -18,6 +18,8 @@
 
 ## Table of Contents
 
+*   [Java](#java)
+*   [miscellaneous](#miscellaneous)
 *   [C#](#c)
 *   [GLSL](#glsl)
 *   [Kotlin](#kotlin)
@@ -29,10 +31,8 @@
 *   [Rust](#rust)
 *   [Shell](#shell)
 *   [CSS](#css)
-*   [miscellaneous](#miscellaneous)
 *   [JavaScript](#javascript)
 *   [PHP](#php)
-*   [Java](#java)
 *   [Typst](#typst)
 *   [HTML](#html)
 *   [QML](#qml)
@@ -44,6 +44,30 @@
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [Makefile](#makefile)
 *   [Thanks](#thanks)
+
+## Java
+
+*   [LSPosed/AndroidHiddenApiBypass](https://github.com/LSPosed/AndroidHiddenApiBypass) - LSPass: Bypass restrictions on non-SDK interfaces
+
+*   [nightmare-space/android\_api\_server](https://github.com/nightmare-space/android_api_server) - android server, based on HTTP
+
+*   [gtf35/app\_process-shell-use](https://github.com/gtf35/app_process-shell-use) - 利用 app\_process 实现免root调用shell
+
+*   [Melledy/LunarCore](https://github.com/Melledy/LunarCore) - A game server reimplementation for a certain turn-based anime game
+
+*   [cinit/QAuxiliary](https://github.com/cinit/QAuxiliary) - QNotified phoenix - To make OICQ great again
+
+*   [ikws4/WeiJu2](https://github.com/ikws4/WeiJu2) - Scriptable Xposed Module
+
+*   [Xtr126/XtMapper](https://github.com/Xtr126/XtMapper) - Keyboard and mouse input mapper
+
+## miscellaneous
+
+*   [CrackerCat/simpread](https://github.com/CrackerCat/simpread) - 简悦导入文章
+
+*   [ZJU-LLMs/Foundations-of-LLMs](https://github.com/ZJU-LLMs/Foundations-of-LLMs) -
+
+*   [newmanls/rofi-themes-collection](https://github.com/newmanls/rofi-themes-collection) - Themes Collection for Rofi Launcher
 
 ## C\#
 
@@ -201,8 +225,6 @@
 
 *   [nitanmarcel/PlayInterityPIFs](https://github.com/nitanmarcel/PlayInterityPIFs) - Repository with pre-generated pif.json files to use with PlayIntegrityModule
 
-*   [ilhan-athn7/android\_proprietary\_native\_bridge](https://github.com/ilhan-athn7/android_proprietary_native_bridge) - A collection of android DTB(Dynamic Binary Translator) implementations pulled from Chromebook CrosVM software and Windows Subsystem For Android.
-
 ## CSS
 
 *   [Diolinux/PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) - A Patch for GIMP 3+ for Photoshop Users
@@ -212,14 +234,6 @@
 *   [1amSimp1e/dots](https://github.com/1amSimp1e/dots) - Nothing here but Dotfiles & Customization 💫
 
 *   [owl4ce/dotfiles](https://github.com/owl4ce/dotfiles) - :cherry\_blossom: Aesthetic OpenboxWM Environment
-
-## miscellaneous
-
-*   [ZJU-LLMs/Foundations-of-LLMs](https://github.com/ZJU-LLMs/Foundations-of-LLMs) -
-
-*   [newmanls/rofi-themes-collection](https://github.com/newmanls/rofi-themes-collection) - Themes Collection for Rofi Launcher
-
-*   [BlissRoms-x86/docs](https://github.com/BlissRoms-x86/docs) - Documentation for Bliss OS
 
 ## JavaScript
 
@@ -238,20 +252,6 @@
 ## PHP
 
 *   [Open-Wine-Components/umu-database](https://github.com/Open-Wine-Components/umu-database) - Contains spreadsheet of game titles for different stores, their store specific code names, and their ULWGL ids.
-
-## Java
-
-*   [nightmare-space/android\_api\_server](https://github.com/nightmare-space/android_api_server) - android server, based on HTTP
-
-*   [gtf35/app\_process-shell-use](https://github.com/gtf35/app_process-shell-use) - 利用 app\_process 实现免root调用shell
-
-*   [Melledy/LunarCore](https://github.com/Melledy/LunarCore) - A game server reimplementation for a certain turn-based anime game
-
-*   [cinit/QAuxiliary](https://github.com/cinit/QAuxiliary) - QNotified phoenix - To make OICQ great again
-
-*   [ikws4/WeiJu2](https://github.com/ikws4/WeiJu2) - Scriptable Xposed Module
-
-*   [Xtr126/XtMapper](https://github.com/Xtr126/XtMapper) - Keyboard and mouse input mapper
 
 ## Typst
 
