@@ -47,6 +47,8 @@
 
 ## Java
 
+*   [RikkaApps/Sui](https://github.com/RikkaApps/Sui) - Modern super user interface implementation on Android.
+
 *   [LSPosed/AndroidHiddenApiBypass](https://github.com/LSPosed/AndroidHiddenApiBypass) - LSPass: Bypass restrictions on non-SDK interfaces
 
 *   [nightmare-space/android\_api\_server](https://github.com/nightmare-space/android_api_server) - android server, based on HTTP
@@ -204,8 +206,6 @@
 *   [sartikadelly/ios-togglebutton-for-maya](https://github.com/sartikadelly/ios-togglebutton-for-maya) - iOS Style Toggle Button for Autodesk Maya (2014, 2016, 2017, 2018) using PySide / PySide2 (Python for Qt)
 
 *   [Swind/pure-python-adb](https://github.com/Swind/pure-python-adb) - This is pure-python implementation of the ADB client.
-
-*   [jaxparrow07/Androidx86-Installer-Linux](https://github.com/jaxparrow07/Androidx86-Installer-Linux) - Advanced Android x86 Installer for Linux
 
 ## Rust
 
