@@ -18,6 +18,7 @@
 
 ## Table of Contents
 
+*   [TeX](#tex)
 *   [Java](#java)
 *   [miscellaneous](#miscellaneous)
 *   [C#](#c)
@@ -37,13 +38,18 @@
 *   [HTML](#html)
 *   [QML](#qml)
 *   [Ruby](#ruby)
-*   [TeX](#tex)
 *   [GDScript](#gdscript)
 *   [Vala](#vala)
 *   [Scala](#scala)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [Makefile](#makefile)
 *   [Thanks](#thanks)
+
+## TeX
+
+*   [billryan/resume](https://github.com/billryan/resume) - An elegant \LaTeX\ résumé template. 大陆镜像 https://gods.coding.net/p/resume/git
+
+*   [moesoha/debian-media-box](https://github.com/moesoha/debian-media-box) - “Debian 小药盒”，一个用来包装 Debian 安装介质的盒子设计和介绍用的说明书。
 
 ## Java
 
@@ -60,8 +66,6 @@
 *   [cinit/QAuxiliary](https://github.com/cinit/QAuxiliary) - QNotified phoenix - To make OICQ great again
 
 *   [ikws4/WeiJu2](https://github.com/ikws4/WeiJu2) - Scriptable Xposed Module
-
-*   [Xtr126/XtMapper](https://github.com/Xtr126/XtMapper) - Keyboard and mouse input mapper
 
 ## miscellaneous
 
@@ -268,10 +272,6 @@
 ## Ruby
 
 *   [Cute-Dress/Dress](https://github.com/Cute-Dress/Dress) - 好耶 是女装 | 备份·接受PR
-
-## TeX
-
-*   [moesoha/debian-media-box](https://github.com/moesoha/debian-media-box) - “Debian 小药盒”，一个用来包装 Debian 安装介质的盒子设计和介绍用的说明书。
 
 ## GDScript
 
