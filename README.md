@@ -18,6 +18,7 @@
 
 ## Table of Contents
 
+*   [TypeScript](#typescript)
 *   [TeX](#tex)
 *   [Java](#java)
 *   [miscellaneous](#miscellaneous)
@@ -25,7 +26,6 @@
 *   [GLSL](#glsl)
 *   [Kotlin](#kotlin)
 *   [C](#c-1)
-*   [TypeScript](#typescript)
 *   [Go](#go)
 *   [C++](#c-2)
 *   [Python](#python)
@@ -44,6 +44,22 @@
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [Makefile](#makefile)
 *   [Thanks](#thanks)
+
+## TypeScript
+
+*   [boerdereinar/copyous](https://github.com/boerdereinar/copyous) - Modern Clipboard Manager for GNOME
+
+*   [romanlefler/SimpleWeather](https://github.com/romanlefler/SimpleWeather) - A highly configurable GNOME shell extension for viewing the weather.
+
+*   [huxulm/lc-rating](https://github.com/huxulm/lc-rating) - 力扣周赛训练小工具，欢迎使用🎈
+
+*   [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
+
+*   [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Open-source CLI that can be used in TUI mode as a coding agent or Headless mode to run background agents
+
+*   [Floorp-Projects/Floorp](https://github.com/Floorp-Projects/Floorp) - All of source code of version 10 or later of Floorp Browser, the most Advanced and Fastest Firefox derivative 🦊
+
+*   [vixalien/sticky](https://github.com/vixalien/sticky) - A simple sticky notes app for GNOME
 
 ## TeX
 
@@ -116,20 +132,6 @@
 *   [rvaiya/keyd](https://github.com/rvaiya/keyd) - A key remapping daemon for linux.
 
 *   [xemu-project/xemu](https://github.com/xemu-project/xemu) - Original Xbox Emulator for Windows, macOS, and Linux (Active Development)
-
-## TypeScript
-
-*   [romanlefler/SimpleWeather](https://github.com/romanlefler/SimpleWeather) - A highly configurable GNOME shell extension for viewing the weather.
-
-*   [huxulm/lc-rating](https://github.com/huxulm/lc-rating) - 力扣周赛训练小工具，欢迎使用🎈
-
-*   [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
-
-*   [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Open-source CLI that can be used in TUI mode as a coding agent or Headless mode to run background agents
-
-*   [Floorp-Projects/Floorp](https://github.com/Floorp-Projects/Floorp) - All of source code of version 10 or later of Floorp Browser, the most Advanced and Fastest Firefox derivative 🦊
-
-*   [vixalien/sticky](https://github.com/vixalien/sticky) - A simple sticky notes app for GNOME
 
 ## Go
 
@@ -228,8 +230,6 @@
 *   [YogSottot/waydroid\_stuff](https://github.com/YogSottot/waydroid_stuff) - Various scripts for building waydroid and waydroid images
 
 *   [YageGeng/thinkbook16p-gen5-sound-fix](https://github.com/YageGeng/thinkbook16p-gen5-sound-fix) - thinkbook 16p gen5 sound fix
-
-*   [nitanmarcel/PlayInterityPIFs](https://github.com/nitanmarcel/PlayInterityPIFs) - Repository with pre-generated pif.json files to use with PlayIntegrityModule
 
 ## CSS
 
