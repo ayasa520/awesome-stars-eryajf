@@ -33,7 +33,6 @@
 *   [Shell](#shell)
 *   [CSS](#css)
 *   [JavaScript](#javascript)
-*   [PHP](#php)
 *   [Typst](#typst)
 *   [HTML](#html)
 *   [QML](#qml)
@@ -179,6 +178,8 @@
 
 *   [cluic/wxauto](https://github.com/cluic/wxauto) - Windows版本微信客户端（非网页版）自动化，可实现简单的发送、接收微信消息，简单微信机器人
 
+*   [Open-Wine-Components/umu-database](https://github.com/Open-Wine-Components/umu-database) - Contains spreadsheet of game titles for different stores, their store specific code names, and their ULWGL ids.
+
 *   [AdnanHodzic/auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq) - Automatic CPU speed & power optimizer for Linux
 
 *   [g1879/DrissionPage](https://github.com/g1879/DrissionPage) - Python based web automation tool. Powerful and elegant.
@@ -252,10 +253,6 @@
 *   [ixovo/Cloudflare-Workers-E5Renew](https://github.com/ixovo/Cloudflare-Workers-E5Renew) - Cloudflare Workers for E5 Renewal
 
 *   [jeffshee/gnome-ext-hanabi](https://github.com/jeffshee/gnome-ext-hanabi) - Live Wallpaper for GNOME
-
-## PHP
-
-*   [Open-Wine-Components/umu-database](https://github.com/Open-Wine-Components/umu-database) - Contains spreadsheet of game titles for different stores, their store specific code names, and their ULWGL ids.
 
 ## Typst
 
