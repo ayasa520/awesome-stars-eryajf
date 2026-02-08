@@ -18,6 +18,7 @@
 
 ## Table of Contents
 
+*   [Jupyter Notebook](#jupyter-notebook)
 *   [TypeScript](#typescript)
 *   [TeX](#tex)
 *   [Java](#java)
@@ -40,9 +41,14 @@
 *   [GDScript](#gdscript)
 *   [Vala](#vala)
 *   [Scala](#scala)
-*   [Jupyter Notebook](#jupyter-notebook)
 *   [Makefile](#makefile)
 *   [Thanks](#thanks)
+
+## Jupyter Notebook
+
+*   [datawhalechina/happy-llm](https://github.com/datawhalechina/happy-llm) - 📚 从零开始的大语言模型原理与实践教程
+
+*   [camenduru/stable-diffusion-webui-colab](https://github.com/camenduru/stable-diffusion-webui-colab) - stable diffusion webui colab
 
 ## TypeScript
 
@@ -131,8 +137,6 @@
 *   [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 
 *   [rvaiya/keyd](https://github.com/rvaiya/keyd) - A key remapping daemon for linux.
-
-*   [xemu-project/xemu](https://github.com/xemu-project/xemu) - Original Xbox Emulator for Windows, macOS, and Linux (Active Development)
 
 ## Go
 
@@ -281,10 +285,6 @@
 ## Scala
 
 *   [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for the X Recommendation Algorithm
-
-## Jupyter Notebook
-
-*   [camenduru/stable-diffusion-webui-colab](https://github.com/camenduru/stable-diffusion-webui-colab) - stable diffusion webui colab
 
 ## Makefile
 
