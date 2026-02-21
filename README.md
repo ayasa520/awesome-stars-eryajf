@@ -18,6 +18,7 @@
 
 ## Table of Contents
 
+*   [Python](#python)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [TypeScript](#typescript)
 *   [TeX](#tex)
@@ -29,7 +30,6 @@
 *   [C](#c-1)
 *   [Go](#go)
 *   [C++](#c-2)
-*   [Python](#python)
 *   [Rust](#rust)
 *   [Shell](#shell)
 *   [CSS](#css)
@@ -43,6 +43,56 @@
 *   [Scala](#scala)
 *   [Makefile](#makefile)
 *   [Thanks](#thanks)
+
+## Python
+
+*   [jeffshee/hidamari](https://github.com/jeffshee/hidamari) - Video wallpaper for Linux. Written in Python. 🐍
+
+*   [jingyaogong/minimind](https://github.com/jingyaogong/minimind) - 🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!
+
+*   [FoundationAgents/OpenManus](https://github.com/FoundationAgents/OpenManus) - No fortress, purely open ground.  OpenManus is Coming.
+
+*   [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
+
+*   [pywinauto/pywinauto](https://github.com/pywinauto/pywinauto) - Windows GUI Automation with Python (based on text properties)
+
+*   [Open-Wine-Components/umu-database](https://github.com/Open-Wine-Components/umu-database) - Contains spreadsheet of game titles for different stores, their store specific code names, and their ULWGL ids.
+
+*   [AdnanHodzic/auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq) - Automatic CPU speed & power optimizer for Linux
+
+*   [g1879/DrissionPage](https://github.com/g1879/DrissionPage) - Python based web automation tool. Powerful and elegant.
+
+*   [spotify/dh-virtualenv](https://github.com/spotify/dh-virtualenv) - Python virtualenvs in Debian packages
+
+*   [littlecodersh/ItChat](https://github.com/littlecodersh/ItChat) - A complete and graceful API for Wechat. 微信个人号接口、微信机器人及命令行微信，三十行即可自定义个人号机器人。
+
+*   [zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) - CowAgent是基于大模型的超级AI助理，能主动思考和任务规划、访问操作系统和外部资源、创造和执行Skills、拥有长期记忆并不断成长。同时支持飞书、钉钉、企业微信应用、微信公众号、网页等接入，可选择OpenAI/Claude/Gemini/DeepSeek/ Qwen/GLM/Kimi/LinkAI，能处理文本、语音、图片和文件，可快速搭建个人AI助手和企业数字员工。
+
+*   [Open-Wine-Components/umu-launcher](https://github.com/Open-Wine-Components/umu-launcher) - Unified launcher for Windows games on Linux
+
+*   [GloriousEggroll/ULWGL](https://github.com/GloriousEggroll/ULWGL) - Unified Linux Wine Game Launcher
+
+*   [Andre0512/hon](https://github.com/Andre0512/hon) - Home Assistant integration for Haier hOn: support for Haier/Candy/Hoover home appliances like washing machines and air conditioners in 28 languages.
+
+*   [quantum5/win2xcur](https://github.com/quantum5/win2xcur) - win2xcur is a tool that converts cursors from Windows format (\*.cur, \*.ani) to Xcursor format. It also contains x2wincur which does the opposite.
+
+*   [bottlesdevs/Bottles](https://github.com/bottlesdevs/Bottles) - Run Windows software and games on Linux
+
+*   [Taiko2k/GTK4PythonTutorial](https://github.com/Taiko2k/GTK4PythonTutorial) - GTK4 + Python tutorial with code examples
+
+*   [outloudvi/mw2fcitx](https://github.com/outloudvi/mw2fcitx) - Fcitx 5 pinyin dictionary generator for MediaWiki instances. (Releases for dict of zh.moegirl.org.cn / Check release list for latest releases)
+
+*   [lxgr-linux/pokete](https://github.com/lxgr-linux/pokete) - A terminal based Pokemon like game
+
+*   [svc-develop-team/so-vits-svc](https://github.com/svc-develop-team/so-vits-svc) - SoftVC VITS Singing Voice Conversion
+
+*   [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
+
+*   [zhiyiYo/PyQt-Fluent-Widgets](https://github.com/zhiyiYo/PyQt-Fluent-Widgets) - A fluent design widgets library based on C++ Qt/PyQt/PySide. Make Qt Great Again.
+
+*   [sartikadelly/ios-togglebutton-for-maya](https://github.com/sartikadelly/ios-togglebutton-for-maya) - iOS Style Toggle Button for Autodesk Maya (2014, 2016, 2017, 2018) using PySide / PySide2 (Python for Qt)
+
+*   [Swind/pure-python-adb](https://github.com/Swind/pure-python-adb) - This is pure-python implementation of the ADB client.
 
 ## Jupyter Notebook
 
@@ -118,8 +168,6 @@
 
 *   [ktorio/ktor-documentation](https://github.com/ktorio/ktor-documentation) - Documentation for the Ktor framework.
 
-*   [tiann/KernelSU](https://github.com/tiann/KernelSU) - A Kernel based root solution for Android
-
 ## C
 
 *   [GNOME/libmanette](https://github.com/GNOME/libmanette) - Read-only mirror of https://gitlab.gnome.org/GNOME/libmanette
@@ -171,54 +219,6 @@
 *   [lxqt/qtermwidget](https://github.com/lxqt/qtermwidget) - The terminal widget for QTerminal
 
 *   [barry-ran/QtScrcpyCore](https://github.com/barry-ran/QtScrcpyCore) - Android real-time display control library
-
-## Python
-
-*   [jingyaogong/minimind](https://github.com/jingyaogong/minimind) - 🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!
-
-*   [FoundationAgents/OpenManus](https://github.com/FoundationAgents/OpenManus) - No fortress, purely open ground.  OpenManus is Coming.
-
-*   [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
-
-*   [pywinauto/pywinauto](https://github.com/pywinauto/pywinauto) - Windows GUI Automation with Python (based on text properties)
-
-*   [Open-Wine-Components/umu-database](https://github.com/Open-Wine-Components/umu-database) - Contains spreadsheet of game titles for different stores, their store specific code names, and their ULWGL ids.
-
-*   [AdnanHodzic/auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq) - Automatic CPU speed & power optimizer for Linux
-
-*   [g1879/DrissionPage](https://github.com/g1879/DrissionPage) - Python based web automation tool. Powerful and elegant.
-
-*   [spotify/dh-virtualenv](https://github.com/spotify/dh-virtualenv) - Python virtualenvs in Debian packages
-
-*   [littlecodersh/ItChat](https://github.com/littlecodersh/ItChat) - A complete and graceful API for Wechat. 微信个人号接口、微信机器人及命令行微信，三十行即可自定义个人号机器人。
-
-*   [zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) - CowAgent是基于大模型的超级AI助理，能主动思考和任务规划、访问操作系统和外部资源、创造和执行Skills、拥有长期记忆并不断成长。同时支持飞书、钉钉、企业微信应用、微信公众号、网页等接入，可选择OpenAI/Claude/Gemini/DeepSeek/ Qwen/GLM/Kimi/LinkAI，能处理文本、语音、图片和文件，可快速搭建个人AI助手和企业数字员工。
-
-*   [Open-Wine-Components/umu-launcher](https://github.com/Open-Wine-Components/umu-launcher) - Unified launcher for Windows games on Linux
-
-*   [GloriousEggroll/ULWGL](https://github.com/GloriousEggroll/ULWGL) - Unified Linux Wine Game Launcher
-
-*   [Andre0512/hon](https://github.com/Andre0512/hon) - Home Assistant integration for Haier hOn: support for Haier/Candy/Hoover home appliances like washing machines and air conditioners in 28 languages.
-
-*   [quantum5/win2xcur](https://github.com/quantum5/win2xcur) - win2xcur is a tool that converts cursors from Windows format (\*.cur, \*.ani) to Xcursor format. It also contains x2wincur which does the opposite.
-
-*   [bottlesdevs/Bottles](https://github.com/bottlesdevs/Bottles) - Run Windows software and games on Linux
-
-*   [Taiko2k/GTK4PythonTutorial](https://github.com/Taiko2k/GTK4PythonTutorial) - GTK4 + Python tutorial with code examples
-
-*   [outloudvi/mw2fcitx](https://github.com/outloudvi/mw2fcitx) - Fcitx 5 pinyin dictionary generator for MediaWiki instances. (Releases for dict of zh.moegirl.org.cn / Check release list for latest releases)
-
-*   [lxgr-linux/pokete](https://github.com/lxgr-linux/pokete) - A terminal based Pokemon like game
-
-*   [svc-develop-team/so-vits-svc](https://github.com/svc-develop-team/so-vits-svc) - SoftVC VITS Singing Voice Conversion
-
-*   [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
-
-*   [zhiyiYo/PyQt-Fluent-Widgets](https://github.com/zhiyiYo/PyQt-Fluent-Widgets) - A fluent design widgets library based on C++ Qt/PyQt/PySide. Make Qt Great Again.
-
-*   [sartikadelly/ios-togglebutton-for-maya](https://github.com/sartikadelly/ios-togglebutton-for-maya) - iOS Style Toggle Button for Autodesk Maya (2014, 2016, 2017, 2018) using PySide / PySide2 (Python for Qt)
-
-*   [Swind/pure-python-adb](https://github.com/Swind/pure-python-adb) - This is pure-python implementation of the ADB client.
 
 ## Rust
 
