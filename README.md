@@ -18,6 +18,7 @@
 
 ## Table of Contents
 
+*   [Shell](#shell)
 *   [Python](#python)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [TypeScript](#typescript)
@@ -31,7 +32,6 @@
 *   [Go](#go)
 *   [C++](#c-2)
 *   [Rust](#rust)
-*   [Shell](#shell)
 *   [CSS](#css)
 *   [JavaScript](#javascript)
 *   [Typst](#typst)
@@ -43,6 +43,14 @@
 *   [Scala](#scala)
 *   [Makefile](#makefile)
 *   [Thanks](#thanks)
+
+## Shell
+
+*   [yeyushengfan258/Reversal-icon-theme](https://github.com/yeyushengfan258/Reversal-icon-theme) - A colorful Design Rectangle icon theme for linux desktops
+
+*   [YogSottot/waydroid\_stuff](https://github.com/YogSottot/waydroid_stuff) - Various scripts for building waydroid and waydroid images
+
+*   [YageGeng/thinkbook16p-gen5-sound-fix](https://github.com/YageGeng/thinkbook16p-gen5-sound-fix) - thinkbook 16p gen5 sound fix
 
 ## Python
 
@@ -230,12 +238,6 @@
 
 *   [typst/typst](https://github.com/typst/typst) - A markup-based typesetting system that is powerful and easy to learn.
 
-## Shell
-
-*   [YogSottot/waydroid\_stuff](https://github.com/YogSottot/waydroid_stuff) - Various scripts for building waydroid and waydroid images
-
-*   [YageGeng/thinkbook16p-gen5-sound-fix](https://github.com/YageGeng/thinkbook16p-gen5-sound-fix) - thinkbook 16p gen5 sound fix
-
 ## CSS
 
 *   [Diolinux/PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) - A Patch for GIMP 3+ for Photoshop Users
@@ -289,8 +291,6 @@
 ## Makefile
 
 *   [supremegamers/vendor\_google\_proprietary\_ndk\_translation-prebuilt](https://github.com/supremegamers/vendor_google_proprietary_ndk_translation-prebuilt) - Prebuilt of Google's ndk\_translation native bridge
-
-*   [supremegamers/vendor\_intel\_proprietary\_houdini](https://github.com/supremegamers/vendor_intel_proprietary_houdini) -
 
 ## Thanks
 
