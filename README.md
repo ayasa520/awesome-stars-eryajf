@@ -18,13 +18,13 @@
 
 ## Table of Contents
 
+*   [miscellaneous](#miscellaneous)
 *   [Shell](#shell)
 *   [Python](#python)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [TypeScript](#typescript)
 *   [TeX](#tex)
 *   [Java](#java)
-*   [miscellaneous](#miscellaneous)
 *   [C#](#c)
 *   [GLSL](#glsl)
 *   [Kotlin](#kotlin)
@@ -41,8 +41,19 @@
 *   [GDScript](#gdscript)
 *   [Vala](#vala)
 *   [Scala](#scala)
-*   [Makefile](#makefile)
 *   [Thanks](#thanks)
+
+## miscellaneous
+
+*   [miifrommera/boxxy](https://github.com/miifrommera/boxxy) - A Terminal for GNOME
+
+*   [CrackerCat/simpread](https://github.com/CrackerCat/simpread) - 简悦导入文章
+
+*   [ZJU-LLMs/Foundations-of-LLMs](https://github.com/ZJU-LLMs/Foundations-of-LLMs) - A book for Learning the Foundations of LLMs
+
+*   [cluic/wxauto](https://github.com/cluic/wxauto) - Windows版本微信客户端（非网页版）自动化，可实现简单的发送、接收微信消息，简单微信机器人
+
+*   [newmanls/rofi-themes-collection](https://github.com/newmanls/rofi-themes-collection) - Themes Collection for Rofi Launcher
 
 ## Shell
 
@@ -145,16 +156,6 @@
 *   [cinit/QAuxiliary](https://github.com/cinit/QAuxiliary) - QNotified phoenix - To make OICQ great again
 
 *   [ikws4/WeiJu2](https://github.com/ikws4/WeiJu2) - Scriptable Xposed Module
-
-## miscellaneous
-
-*   [CrackerCat/simpread](https://github.com/CrackerCat/simpread) - 简悦导入文章
-
-*   [ZJU-LLMs/Foundations-of-LLMs](https://github.com/ZJU-LLMs/Foundations-of-LLMs) - A book for Learning the Foundations of LLMs
-
-*   [cluic/wxauto](https://github.com/cluic/wxauto) - Windows版本微信客户端（非网页版）自动化，可实现简单的发送、接收微信消息，简单微信机器人
-
-*   [newmanls/rofi-themes-collection](https://github.com/newmanls/rofi-themes-collection) - Themes Collection for Rofi Launcher
 
 ## C\#
 
@@ -287,10 +288,6 @@
 ## Scala
 
 *   [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for the X Recommendation Algorithm
-
-## Makefile
-
-*   [supremegamers/vendor\_google\_proprietary\_ndk\_translation-prebuilt](https://github.com/supremegamers/vendor_google_proprietary_ndk_translation-prebuilt) - Prebuilt of Google's ndk\_translation native bridge
 
 ## Thanks
 
