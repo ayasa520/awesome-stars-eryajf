@@ -18,6 +18,7 @@
 
 ## Table of Contents
 
+*   [Vala](#vala)
 *   [miscellaneous](#miscellaneous)
 *   [Shell](#shell)
 *   [Python](#python)
@@ -39,9 +40,14 @@
 *   [QML](#qml)
 *   [Ruby](#ruby)
 *   [GDScript](#gdscript)
-*   [Vala](#vala)
 *   [Scala](#scala)
 *   [Thanks](#thanks)
+
+## Vala
+
+*   [neithern/g4music](https://github.com/neithern/g4music) - A light weight music player written in GTK4, with a fluent adaptive user interface.
+
+*   [lainsce/notejot](https://github.com/lainsce/notejot) - Stupidly-simple notes app.
 
 ## miscellaneous
 
@@ -110,8 +116,6 @@
 *   [zhiyiYo/PyQt-Fluent-Widgets](https://github.com/zhiyiYo/PyQt-Fluent-Widgets) - A fluent design widgets library based on C++ Qt/PyQt/PySide. Make Qt Great Again.
 
 *   [sartikadelly/ios-togglebutton-for-maya](https://github.com/sartikadelly/ios-togglebutton-for-maya) - iOS Style Toggle Button for Autodesk Maya (2014, 2016, 2017, 2018) using PySide / PySide2 (Python for Qt)
-
-*   [Swind/pure-python-adb](https://github.com/Swind/pure-python-adb) - This is pure-python implementation of the ADB client.
 
 ## Jupyter Notebook
 
@@ -280,10 +284,6 @@
 ## GDScript
 
 *   [gdquest-demos/godot-open-rpg](https://github.com/gdquest-demos/godot-open-rpg) - Learn to create turn-based combat with this Open Source RPG demo ⚔
-
-## Vala
-
-*   [lainsce/notejot](https://github.com/lainsce/notejot) - Stupidly-simple notes app.
 
 ## Scala
 
