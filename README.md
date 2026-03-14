@@ -38,7 +38,6 @@
 *   [Typst](#typst)
 *   [HTML](#html)
 *   [QML](#qml)
-*   [Ruby](#ruby)
 *   [GDScript](#gdscript)
 *   [Scala](#scala)
 *   [Thanks](#thanks)
@@ -104,6 +103,8 @@
 *   [bottlesdevs/Bottles](https://github.com/bottlesdevs/Bottles) - Run Windows software and games on Linux
 
 *   [Taiko2k/GTK4PythonTutorial](https://github.com/Taiko2k/GTK4PythonTutorial) - GTK4 + Python tutorial with code examples
+
+*   [Cute-Dress/Dress](https://github.com/Cute-Dress/Dress) - 好耶 是女装 | 备份·接受PR
 
 *   [outloudvi/mw2fcitx](https://github.com/outloudvi/mw2fcitx) - Fcitx 5 pinyin dictionary generator for MediaWiki instances. (Releases for dict of zh.moegirl.org.cn / Check release list for latest releases)
 
@@ -276,10 +277,6 @@
 ## QML
 
 *   [lengyefenghan/Megumin-theme-sddm](https://github.com/lengyefenghan/Megumin-theme-sddm) - A simple SDDM theme for Megumin.
-
-## Ruby
-
-*   [Cute-Dress/Dress](https://github.com/Cute-Dress/Dress) - 好耶 是女装 | 备份·接受PR
 
 ## GDScript
 
