@@ -19,20 +19,20 @@
 ## Table of Contents
 
 *   [Vala](#vala)
-*   [miscellaneous](#miscellaneous)
+*   [Rust](#rust)
 *   [Shell](#shell)
 *   [Python](#python)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [TypeScript](#typescript)
 *   [TeX](#tex)
 *   [Java](#java)
+*   [miscellaneous](#miscellaneous)
 *   [C#](#c)
 *   [GLSL](#glsl)
 *   [Kotlin](#kotlin)
 *   [C](#c-1)
 *   [Go](#go)
 *   [C++](#c-2)
-*   [Rust](#rust)
 *   [CSS](#css)
 *   [JavaScript](#javascript)
 *   [Typst](#typst)
@@ -48,15 +48,17 @@
 
 *   [lainsce/notejot](https://github.com/lainsce/notejot) - Stupidly-simple notes app.
 
-## miscellaneous
+## Rust
 
 *   [miifrommera/boxxy](https://github.com/miifrommera/boxxy) - A Terminal for GNOME
 
-*   [CrackerCat/simpread](https://github.com/CrackerCat/simpread) - 简悦导入文章
+*   [ShadowBlip/InputPlumber](https://github.com/ShadowBlip/InputPlumber) - Open source input router and remapper daemon for Linux
 
-*   [ZJU-LLMs/Foundations-of-LLMs](https://github.com/ZJU-LLMs/Foundations-of-LLMs) - A book for Learning the Foundations of LLMs
+*   [mistrmochov/WaydroidSU](https://github.com/mistrmochov/WaydroidSU) - WaydroidSU, CLI Magisk manager and installer for Waydroid written in Rust
 
-*   [newmanls/rofi-themes-collection](https://github.com/newmanls/rofi-themes-collection) - Themes Collection for Rofi Launcher
+*   [H-M-H/Weylus](https://github.com/H-M-H/Weylus) - Use your tablet as graphic tablet/touch screen on your computer.
+
+*   [typst/typst](https://github.com/typst/typst) - A markup-based typesetting system that is powerful and easy to learn.
 
 ## Shell
 
@@ -162,6 +164,14 @@
 
 *   [ikws4/WeiJu2](https://github.com/ikws4/WeiJu2) - Scriptable Xposed Module
 
+## miscellaneous
+
+*   [CrackerCat/simpread](https://github.com/CrackerCat/simpread) - 简悦导入文章
+
+*   [ZJU-LLMs/Foundations-of-LLMs](https://github.com/ZJU-LLMs/Foundations-of-LLMs) - A book for Learning the Foundations of LLMs
+
+*   [newmanls/rofi-themes-collection](https://github.com/newmanls/rofi-themes-collection) - Themes Collection for Rofi Launcher
+
 ## C\#
 
 *   [mxgmn/WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse) - Bitmap & tilemap generation from a single example with the help of ideas from quantum mechanics
@@ -233,16 +243,6 @@
 *   [lxqt/qtermwidget](https://github.com/lxqt/qtermwidget) - The terminal widget for QTerminal
 
 *   [barry-ran/QtScrcpyCore](https://github.com/barry-ran/QtScrcpyCore) - Android real-time display control library
-
-## Rust
-
-*   [ShadowBlip/InputPlumber](https://github.com/ShadowBlip/InputPlumber) - Open source input router and remapper daemon for Linux
-
-*   [mistrmochov/WaydroidSU](https://github.com/mistrmochov/WaydroidSU) - WaydroidSU, CLI Magisk manager and installer for Waydroid written in Rust
-
-*   [H-M-H/Weylus](https://github.com/H-M-H/Weylus) - Use your tablet as graphic tablet/touch screen on your computer.
-
-*   [typst/typst](https://github.com/typst/typst) - A markup-based typesetting system that is powerful and easy to learn.
 
 ## CSS
 
