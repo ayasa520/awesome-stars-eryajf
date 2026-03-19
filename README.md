@@ -18,6 +18,7 @@
 
 ## Table of Contents
 
+*   [C#](#c)
 *   [Vala](#vala)
 *   [Rust](#rust)
 *   [Shell](#shell)
@@ -27,7 +28,6 @@
 *   [TeX](#tex)
 *   [Java](#java)
 *   [miscellaneous](#miscellaneous)
-*   [C#](#c)
 *   [GLSL](#glsl)
 *   [Kotlin](#kotlin)
 *   [C](#c-1)
@@ -41,6 +41,12 @@
 *   [GDScript](#gdscript)
 *   [Scala](#scala)
 *   [Thanks](#thanks)
+
+## C\#
+
+*   [Misaki0331/Win-kurarin](https://github.com/Misaki0331/Win-kurarin) - Windows x きゅうくらりん
+
+*   [mxgmn/WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse) - Bitmap & tilemap generation from a single example with the help of ideas from quantum mechanics
 
 ## Vala
 
@@ -172,10 +178,6 @@
 
 *   [newmanls/rofi-themes-collection](https://github.com/newmanls/rofi-themes-collection) - Themes Collection for Rofi Launcher
 
-## C\#
-
-*   [mxgmn/WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse) - Bitmap & tilemap generation from a single example with the help of ideas from quantum mechanics
-
 ## GLSL
 
 *   [noelsimbolon/mpv-config](https://github.com/noelsimbolon/mpv-config) - 🎥 High-quality configuration for mpv media player
@@ -241,8 +243,6 @@
 *   [Swordfish90/qmltermwidget](https://github.com/Swordfish90/qmltermwidget) - QML port of qtermwidget
 
 *   [lxqt/qtermwidget](https://github.com/lxqt/qtermwidget) - The terminal widget for QTerminal
-
-*   [barry-ran/QtScrcpyCore](https://github.com/barry-ran/QtScrcpyCore) - Android real-time display control library
 
 ## CSS
 
