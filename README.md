@@ -18,7 +18,8 @@
 
 ## Table of Contents
 
-*   [C#](#c)
+*   [C++](#c)
+*   [C#](#c-1)
 *   [Vala](#vala)
 *   [Rust](#rust)
 *   [Shell](#shell)
@@ -30,9 +31,8 @@
 *   [miscellaneous](#miscellaneous)
 *   [GLSL](#glsl)
 *   [Kotlin](#kotlin)
-*   [C](#c-1)
+*   [C](#c-2)
 *   [Go](#go)
-*   [C++](#c-2)
 *   [CSS](#css)
 *   [JavaScript](#javascript)
 *   [Typst](#typst)
@@ -41,6 +41,34 @@
 *   [GDScript](#gdscript)
 *   [Scala](#scala)
 *   [Thanks](#thanks)
+
+## C++
+
+*   [catsout/wallpaper-scene-renderer](https://github.com/catsout/wallpaper-scene-renderer) - Wallpaper engine scene renderer for linux
+
+*   [redroid-rockchip/vendor\_redroid\_ext](https://github.com/redroid-rockchip/vendor_redroid_ext) -
+
+*   [EricInacio01/PlayIntegrityFix-NEXT](https://github.com/EricInacio01/PlayIntegrityFix-NEXT) - PIF Fork. This module provides experimental implementations to ensure valid attestation under the new PlayIntegrity rules.
+
+*   [MhmRdd/NoHello](https://github.com/MhmRdd/NoHello) - A Zygisk module to hide root.
+
+*   [pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) - Karabiner-Elements is a powerful tool for customizing keyboards on macOS
+
+*   [qwerty12356-wart/test\_libnb](https://github.com/qwerty12356-wart/test_libnb) -
+
+*   [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
+
+*   [Redot-Engine/redot-engine](https://github.com/Redot-Engine/redot-engine) - Redot Engine – Multi-platform 2D and 3D game engine
+
+*   [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
+
+*   [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
+
+*   [zhuzichu520/FluentUI](https://github.com/zhuzichu520/FluentUI) - FluentUI for QML
+
+*   [Swordfish90/qmltermwidget](https://github.com/Swordfish90/qmltermwidget) - QML port of qtermwidget
+
+*   [lxqt/qtermwidget](https://github.com/lxqt/qtermwidget) - The terminal widget for QTerminal
 
 ## C\#
 
@@ -218,39 +246,11 @@
 
 *   [golangci/golangci-lint](https://github.com/golangci/golangci-lint) - Fast linters runner for Go
 
-## C++
-
-*   [redroid-rockchip/vendor\_redroid\_ext](https://github.com/redroid-rockchip/vendor_redroid_ext) -
-
-*   [EricInacio01/PlayIntegrityFix-NEXT](https://github.com/EricInacio01/PlayIntegrityFix-NEXT) - PIF Fork. This module provides experimental implementations to ensure valid attestation under the new PlayIntegrity rules.
-
-*   [MhmRdd/NoHello](https://github.com/MhmRdd/NoHello) - A Zygisk module to hide root.
-
-*   [pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) - Karabiner-Elements is a powerful tool for customizing keyboards on macOS
-
-*   [qwerty12356-wart/test\_libnb](https://github.com/qwerty12356-wart/test_libnb) -
-
-*   [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
-
-*   [Redot-Engine/redot-engine](https://github.com/Redot-Engine/redot-engine) - Redot Engine – Multi-platform 2D and 3D game engine
-
-*   [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
-
-*   [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
-
-*   [zhuzichu520/FluentUI](https://github.com/zhuzichu520/FluentUI) - FluentUI for QML
-
-*   [Swordfish90/qmltermwidget](https://github.com/Swordfish90/qmltermwidget) - QML port of qtermwidget
-
-*   [lxqt/qtermwidget](https://github.com/lxqt/qtermwidget) - The terminal widget for QTerminal
-
 ## CSS
 
 *   [Diolinux/PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) - A Patch for GIMP 3+ for Photoshop Users
 
 *   [1amSimp1e/dots](https://github.com/1amSimp1e/dots) - Nothing here but Dotfiles & Customization 💫
-
-*   [owl4ce/dotfiles](https://github.com/owl4ce/dotfiles) - :cherry\_blossom: Aesthetic OpenboxWM Environment
 
 ## JavaScript
 
