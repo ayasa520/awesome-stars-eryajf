@@ -44,6 +44,8 @@
 
 ## C++
 
+*   [waywallen/open-wallpaper-engine](https://github.com/waywallen/open-wallpaper-engine) -
+
 *   [catsout/wallpaper-scene-renderer](https://github.com/catsout/wallpaper-scene-renderer) - Wallpaper engine scene renderer for linux
 
 *   [redroid-rockchip/vendor\_redroid\_ext](https://github.com/redroid-rockchip/vendor_redroid_ext) -
@@ -249,8 +251,6 @@
 ## CSS
 
 *   [Diolinux/PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) - A Patch for GIMP 3+ for Photoshop Users
-
-*   [1amSimp1e/dots](https://github.com/1amSimp1e/dots) - Nothing here but Dotfiles & Customization 💫
 
 ## JavaScript
 
