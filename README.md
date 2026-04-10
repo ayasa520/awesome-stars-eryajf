@@ -86,7 +86,7 @@
 
 ## Rust
 
-*   [miifrommera/boxxy](https://github.com/miifrommera/boxxy) - Stupid Linux Terminal
+*   [boxxy-dev/boxxy](https://github.com/boxxy-dev/boxxy) - Stupid Linux Terminal
 
 *   [ShadowBlip/InputPlumber](https://github.com/ShadowBlip/InputPlumber) - Open source input router and remapper daemon for Linux
 
