@@ -35,8 +35,8 @@
 *   [Go](#go)
 *   [CSS](#css)
 *   [JavaScript](#javascript)
-*   [Typst](#typst)
 *   [HTML](#html)
+*   [Typst](#typst)
 *   [QML](#qml)
 *   [GDScript](#gdscript)
 *   [Scala](#scala)
@@ -117,8 +117,6 @@
 *   [pywinauto/pywinauto](https://github.com/pywinauto/pywinauto) - Windows GUI Automation with Python (based on text properties)
 
 *   [cluic/wxauto](https://github.com/cluic/wxauto) - Windows版本微信客户端（非网页版）自动化，可实现简单的发送、接收微信消息，简单微信机器人
-
-*   [Open-Wine-Components/umu-database](https://github.com/Open-Wine-Components/umu-database) - Contains spreadsheet of game titles for different stores, their store specific code names, and their ULWGL ids.
 
 *   [AdnanHodzic/auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq) - Automatic CPU speed & power optimizer for Linux
 
@@ -266,13 +264,15 @@
 
 *   [jeffshee/gnome-ext-hanabi](https://github.com/jeffshee/gnome-ext-hanabi) - Live Wallpaper for GNOME
 
+## HTML
+
+*   [Open-Wine-Components/umu-database](https://github.com/Open-Wine-Components/umu-database) - Contains spreadsheet of game titles for different stores, their store specific code names, and their ULWGL ids.
+
+*   [trans-archive/jyosei-guide](https://github.com/trans-archive/jyosei-guide) - 成为女孩子的声音！结合了插画、音频和基础训练手段的伪声训练
+
 ## Typst
 
 *   [nju-lug/modern-nju-thesis](https://github.com/nju-lug/modern-nju-thesis) - 南京大学学位论文 Typst 模板 modern-nju-thesis
-
-## HTML
-
-*   [trans-archive/jyosei-guide](https://github.com/trans-archive/jyosei-guide) - 成为女孩子的声音！结合了插画、音频和基础训练手段的伪声训练
 
 ## QML
 
