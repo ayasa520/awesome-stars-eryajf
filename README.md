@@ -18,6 +18,7 @@
 
 ## Table of Contents
 
+*   [Go](#go)
 *   [C++](#c)
 *   [C#](#c-1)
 *   [Vala](#vala)
@@ -32,7 +33,6 @@
 *   [GLSL](#glsl)
 *   [Kotlin](#kotlin)
 *   [C](#c-2)
-*   [Go](#go)
 *   [CSS](#css)
 *   [JavaScript](#javascript)
 *   [HTML](#html)
@@ -41,6 +41,14 @@
 *   [GDScript](#gdscript)
 *   [Scala](#scala)
 *   [Thanks](#thanks)
+
+## Go
+
+*   [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 3.1 Pro, GPT 5.5, Claude model through API
+
+*   [SpectoLabs/hoverfly](https://github.com/SpectoLabs/hoverfly) - Lightweight service virtualization/ API simulation / API mocking tool for developers and testers
+
+*   [golangci/golangci-lint](https://github.com/golangci/golangci-lint) - Fast linters runner for Go
 
 ## C++
 
@@ -108,7 +116,7 @@
 
 *   [jeffshee/hidamari](https://github.com/jeffshee/hidamari) - Video wallpaper for Linux. Written in Python. 🐍
 
-*   [jingyaogong/minimind](https://github.com/jingyaogong/minimind) - 🚀 「大模型」2小时完全从0训练64M的小参数LLM！🌏 Train a 64M-parameter LLM from scratch in just 2h!
+*   [jingyaogong/minimind](https://github.com/jingyaogong/minimind) - 🧠「大模型」2小时完全从0训练64M的小参数LLM！Train a 64M-parameter LLM from scratch in just 2h!
 
 *   [FoundationAgents/OpenManus](https://github.com/FoundationAgents/OpenManus) - No fortress, purely open ground.  OpenManus is Coming.
 
@@ -240,12 +248,6 @@
 
 *   [rvaiya/keyd](https://github.com/rvaiya/keyd) - A key remapping daemon for linux.
 
-## Go
-
-*   [SpectoLabs/hoverfly](https://github.com/SpectoLabs/hoverfly) - Lightweight service virtualization/ API simulation / API mocking tool for developers and testers
-
-*   [golangci/golangci-lint](https://github.com/golangci/golangci-lint) - Fast linters runner for Go
-
 ## CSS
 
 *   [Diolinux/PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) - A Patch for GIMP 3+ for Photoshop Users
@@ -261,8 +263,6 @@
 *   [MrOtherGuy/fx-autoconfig](https://github.com/MrOtherGuy/fx-autoconfig) - Load custom javascript in browser context
 
 *   [ixovo/Cloudflare-Workers-E5Renew](https://github.com/ixovo/Cloudflare-Workers-E5Renew) - Cloudflare Workers for E5 Renewal
-
-*   [jeffshee/gnome-ext-hanabi](https://github.com/jeffshee/gnome-ext-hanabi) - Live Wallpaper for GNOME
 
 ## HTML
 
