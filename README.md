@@ -18,6 +18,7 @@
 
 ## Table of Contents
 
+*   [JavaScript](#javascript)
 *   [miscellaneous](#miscellaneous)
 *   [Rust](#rust)
 *   [Python](#python)
@@ -34,13 +35,26 @@
 *   [Kotlin](#kotlin)
 *   [C](#c-2)
 *   [CSS](#css)
-*   [JavaScript](#javascript)
 *   [HTML](#html)
 *   [Typst](#typst)
 *   [QML](#qml)
 *   [GDScript](#gdscript)
 *   [Scala](#scala)
 *   [Thanks](#thanks)
+
+## JavaScript
+
+*   [xsjk/codex-workspace-filter](https://github.com/xsjk/codex-workspace-filter) - VS Code extension that patches OpenAI Codex to filter thread lists by current workspace folders.
+
+*   [DG-LAB-OPENSOURCE/DG-LAB-OPENSOURCE](https://github.com/DG-LAB-OPENSOURCE/DG-LAB-OPENSOURCE) - The Bluetooth Protocol Of DG-LAB Devices
+
+*   [AHCorn/Bilibili-To-Raindrop](https://github.com/AHCorn/Bilibili-To-Raindrop) - 导出哔哩哔哩收藏夹至 CSV 文件，以便转移至 Raindrop 或备份 / Export the Bilibili favorites folder to a CSV file for easy transfer to Raindrop or backup.
+
+*   [obgnail/typora\_plugin](https://github.com/obgnail/typora_plugin) - Typora plugin. Feature enhancement tool | Typora 插件，功能增强工具
+
+*   [MrOtherGuy/fx-autoconfig](https://github.com/MrOtherGuy/fx-autoconfig) - Load custom javascript in browser context
+
+*   [ixovo/Cloudflare-Workers-E5Renew](https://github.com/ixovo/Cloudflare-Workers-E5Renew) - Cloudflare Workers for E5 Renewal
 
 ## miscellaneous
 
@@ -152,8 +166,6 @@
 
 *   [Swordfish90/qmltermwidget](https://github.com/Swordfish90/qmltermwidget) - QML port of qtermwidget
 
-*   [lxqt/qtermwidget](https://github.com/lxqt/qtermwidget) - The terminal widget for QTerminal
-
 ## C\#
 
 *   [Misaki0331/Win-kurarin](https://github.com/Misaki0331/Win-kurarin) - Windows x きゅうくらりん
@@ -251,18 +263,6 @@
 ## CSS
 
 *   [Diolinux/PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) - A Patch for GIMP 3+ for Photoshop Users
-
-## JavaScript
-
-*   [DG-LAB-OPENSOURCE/DG-LAB-OPENSOURCE](https://github.com/DG-LAB-OPENSOURCE/DG-LAB-OPENSOURCE) - The Bluetooth Protocol Of DG-LAB Devices
-
-*   [AHCorn/Bilibili-To-Raindrop](https://github.com/AHCorn/Bilibili-To-Raindrop) - 导出哔哩哔哩收藏夹至 CSV 文件，以便转移至 Raindrop 或备份 / Export the Bilibili favorites folder to a CSV file for easy transfer to Raindrop or backup.
-
-*   [obgnail/typora\_plugin](https://github.com/obgnail/typora_plugin) - Typora plugin. Feature enhancement tool | Typora 插件，功能增强工具
-
-*   [MrOtherGuy/fx-autoconfig](https://github.com/MrOtherGuy/fx-autoconfig) - Load custom javascript in browser context
-
-*   [ixovo/Cloudflare-Workers-E5Renew](https://github.com/ixovo/Cloudflare-Workers-E5Renew) - Cloudflare Workers for E5 Renewal
 
 ## HTML
 
