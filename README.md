@@ -50,7 +50,7 @@
 
 *   [AHCorn/Bilibili-To-Raindrop](https://github.com/AHCorn/Bilibili-To-Raindrop) - 导出哔哩哔哩收藏夹至 CSV 文件，以便转移至 Raindrop 或备份 / Export the Bilibili favorites folder to a CSV file for easy transfer to Raindrop or backup.
 
-*   [obgnail/typora\_plugin](https://github.com/obgnail/typora_plugin) - Typora plugin. Feature enhancement tool | Typora 插件，功能增强工具
+*   [obgnail/typora\_plugin](https://github.com/obgnail/typora_plugin) - Typora Plugin. Feature Enhancement Tool | Typora 插件，功能增强工具
 
 *   [MrOtherGuy/fx-autoconfig](https://github.com/MrOtherGuy/fx-autoconfig) - Load custom javascript in browser context
 
