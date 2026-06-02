@@ -98,7 +98,7 @@
 
 *   [xsjk/codex-workspace-filter](https://github.com/xsjk/codex-workspace-filter) - VS Code extension that patches OpenAI Codex to filter thread lists by current workspace folders.
 
-*   [DG-LAB-OPENSOURCE/DG-LAB-OPENSOURCE](https://github.com/DG-LAB-OPENSOURCE/DG-LAB-OPENSOURCE) - The Bluetooth Protocol Of DG-LAB Devices
+*   [dungeonlab-open/dglab-bluetooth-protocol](https://github.com/dungeonlab-open/dglab-bluetooth-protocol) - The Bluetooth Protocol Of DG-LAB Devices
 
 *   [AHCorn/Bilibili-To-Raindrop](https://github.com/AHCorn/Bilibili-To-Raindrop) - 导出哔哩哔哩收藏夹至 CSV 文件，以便转移至 Raindrop 或备份 / Export the Bilibili favorites folder to a CSV file for easy transfer to Raindrop or backup.
 
