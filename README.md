@@ -98,8 +98,6 @@
 
 *   [xsjk/codex-workspace-filter](https://github.com/xsjk/codex-workspace-filter) - VS Code extension that patches OpenAI Codex to filter thread lists by current workspace folders.
 
-*   [dungeonlab-open/dglab-bluetooth-protocol](https://github.com/dungeonlab-open/dglab-bluetooth-protocol) - The Bluetooth Protocol Of DG-LAB Devices
-
 *   [AHCorn/Bilibili-To-Raindrop](https://github.com/AHCorn/Bilibili-To-Raindrop) - 导出哔哩哔哩收藏夹至 CSV 文件，以便转移至 Raindrop 或备份 / Export the Bilibili favorites folder to a CSV file for easy transfer to Raindrop or backup.
 
 *   [obgnail/typora\_plugin](https://github.com/obgnail/typora_plugin) - Typora Plugin. Feature Enhancement Tool | Typora 插件，功能增强工具
@@ -115,6 +113,8 @@
 *   [CrackerCat/simpread](https://github.com/CrackerCat/simpread) - 简悦导入文章
 
 *   [ZJU-LLMs/Foundations-of-LLMs](https://github.com/ZJU-LLMs/Foundations-of-LLMs) - A book for Learning the Foundations of LLMs
+
+*   [dungeonlab-open/dglab-bluetooth-protocol](https://github.com/dungeonlab-open/dglab-bluetooth-protocol) - The Bluetooth Protocol Of DG-LAB Devices
 
 *   [newmanls/rofi-themes-collection](https://github.com/newmanls/rofi-themes-collection) - Themes Collection for Rofi Launcher
 
