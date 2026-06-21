@@ -142,7 +142,7 @@
 
 ## C++
 
-*   [waywallen/open-wallpaper-engine](https://github.com/waywallen/open-wallpaper-engine) -
+*   [waywallen/open-wallpaper-engine](https://github.com/waywallen/open-wallpaper-engine) - Open source wallpaper engine implement mostly for linux
 
 *   [catsout/wallpaper-scene-renderer](https://github.com/catsout/wallpaper-scene-renderer) - Wallpaper engine scene renderer for linux
 
