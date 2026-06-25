@@ -18,274 +18,274 @@
 
 ## Table of Contents
 
-*   [Python](#python)
-*   [JavaScript](#javascript)
-*   [miscellaneous](#miscellaneous)
-*   [Rust](#rust)
-*   [Go](#go)
-*   [C++](#c)
-*   [C#](#c-1)
-*   [Vala](#vala)
-*   [Shell](#shell)
-*   [Jupyter Notebook](#jupyter-notebook)
-*   [TypeScript](#typescript)
-*   [TeX](#tex)
-*   [Java](#java)
-*   [GLSL](#glsl)
-*   [Kotlin](#kotlin)
-*   [C](#c-2)
-*   [CSS](#css)
-*   [HTML](#html)
-*   [Typst](#typst)
-*   [QML](#qml)
-*   [GDScript](#gdscript)
-*   [Scala](#scala)
-*   [Thanks](#thanks)
+* [Python](#python)
+* [JavaScript](#javascript)
+* [miscellaneous](#miscellaneous)
+* [Rust](#rust)
+* [Go](#go)
+* [C++](#c)
+* [C#](#c-1)
+* [Vala](#vala)
+* [Shell](#shell)
+* [Jupyter Notebook](#jupyter-notebook)
+* [TypeScript](#typescript)
+* [TeX](#tex)
+* [Java](#java)
+* [GLSL](#glsl)
+* [Kotlin](#kotlin)
+* [C](#c-2)
+* [CSS](#css)
+* [HTML](#html)
+* [Typst](#typst)
+* [QML](#qml)
+* [GDScript](#gdscript)
+* [Scala](#scala)
+* [Thanks](#thanks)
 
 ## Python
 
-*   [GordenSun/GordenPPTSkill](https://github.com/GordenSun/GordenPPTSkill) - AI-friendly PPT builder skill: 17 hand-polished Chinese PPTX templates + non-destructive text-only editing tools (python-pptx based). Pick a template, write edits.json, build a real .pptx with the layout intact. Personal/research use only.
+* [GordenSun/GordenPPTSkill](https://github.com/GordenSun/GordenPPTSkill) - AI-friendly PPT builder skill: 17 hand-polished Chinese PPTX templates + non-destructive text-only editing tools (python-pptx based). Pick a template, write edits.json, build a real .pptx with the layout intact. Personal/research use only.
 
-*   [dongshao/nju-se-thesis-self-check](https://github.com/dongshao/nju-se-thesis-self-check) - 南京大学软件学院、智能软件与工程学院专业学位硕士论文送审前自检 Agent Skill
+* [dongshao/nju-se-thesis-self-check](https://github.com/dongshao/nju-se-thesis-self-check) - 南京大学软件学院、智能软件与工程学院专业学位硕士论文送审前自检 Agent Skill
 
-*   [jeffshee/hidamari](https://github.com/jeffshee/hidamari) - Video wallpaper for Linux. Written in Python. 🐍
+* [jeffshee/hidamari](https://github.com/jeffshee/hidamari) - Video wallpaper for Linux. Written in Python. 🐍
 
-*   [jingyaogong/minimind](https://github.com/jingyaogong/minimind) - 🧠「大模型」2小时完全从0训练64M的小参数LLM！Train a 64M-parameter LLM from scratch in just 2h!
+* [jingyaogong/minimind](https://github.com/jingyaogong/minimind) - 🧠「大模型」2小时完全从0训练64M的小参数LLM！Train a 64M-parameter LLM from scratch in just 2h!
 
-*   [FoundationAgents/OpenManus](https://github.com/FoundationAgents/OpenManus) - No fortress, purely open ground.  OpenManus is Coming.
+* [FoundationAgents/OpenManus](https://github.com/FoundationAgents/OpenManus) - No fortress, purely open ground.  OpenManus is Coming.
 
-*   [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
+* [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 
-*   [pywinauto/pywinauto](https://github.com/pywinauto/pywinauto) - Windows GUI Automation with Python (based on text properties)
+* [pywinauto/pywinauto](https://github.com/pywinauto/pywinauto) - Windows GUI Automation with Python (based on text properties)
 
-*   [cluic/wxauto](https://github.com/cluic/wxauto) - Windows版本微信客户端（非网页版）自动化，可实现简单的发送、接收微信消息，简单微信机器人
+* [cluic/wxauto](https://github.com/cluic/wxauto) - Windows版本微信客户端（非网页版）自动化，可实现简单的发送、接收微信消息，简单微信机器人
 
-*   [AdnanHodzic/auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq) - Automatic CPU speed & power optimizer for Linux
+* [AdnanHodzic/auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq) - Automatic CPU speed & power optimizer for Linux
 
-*   [g1879/DrissionPage](https://github.com/g1879/DrissionPage) - Python based web automation tool. Powerful and elegant.
+* [g1879/DrissionPage](https://github.com/g1879/DrissionPage) - Python based web automation tool. Powerful and elegant.
 
-*   [spotify/dh-virtualenv](https://github.com/spotify/dh-virtualenv) - Python virtualenvs in Debian packages
+* [spotify/dh-virtualenv](https://github.com/spotify/dh-virtualenv) - Python virtualenvs in Debian packages
 
-*   [littlecodersh/ItChat](https://github.com/littlecodersh/ItChat) - A complete and graceful API for Wechat. 微信个人号接口、微信机器人及命令行微信，三十行即可自定义个人号机器人。
+* [littlecodersh/ItChat](https://github.com/littlecodersh/ItChat) - A complete and graceful API for Wechat. 微信个人号接口、微信机器人及命令行微信，三十行即可自定义个人号机器人。
 
-*   [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) - Open-source super AI assistant & Agent Harness. Plans tasks, runs tools and skills, self-evolves with memory and knowledge. Multi-model, multi-channel. Lightweight, extensible, one-line install. (formerly chatgpt-on-wechat)
+* [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) - Open-source super AI assistant & Agent Harness. Plans tasks, runs tools and skills, self-evolves with memory and knowledge. Multi-model, multi-channel. Lightweight, extensible, one-line install. (formerly chatgpt-on-wechat)
 
-*   [Open-Wine-Components/umu-launcher](https://github.com/Open-Wine-Components/umu-launcher) - Unified launcher for Windows games on Linux
+* [Open-Wine-Components/umu-launcher](https://github.com/Open-Wine-Components/umu-launcher) - Unified launcher for Windows games on Linux
 
-*   [GloriousEggroll/ULWGL](https://github.com/GloriousEggroll/ULWGL) - Unified Linux Wine Game Launcher
+* [GloriousEggroll/ULWGL](https://github.com/GloriousEggroll/ULWGL) - Unified Linux Wine Game Launcher
 
-*   [Andre0512/hon](https://github.com/Andre0512/hon) - Home Assistant integration for Haier hOn: support for Haier/Candy/Hoover home appliances like washing machines and air conditioners in 28 languages.
+* [Andre0512/hon](https://github.com/Andre0512/hon) - Home Assistant integration for Haier hOn: support for Haier/Candy/Hoover home appliances like washing machines and air conditioners in 28 languages.
 
-*   [quantum5/win2xcur](https://github.com/quantum5/win2xcur) - win2xcur is a tool that converts cursors from Windows format (\*.cur, \*.ani) to Xcursor format. It also contains x2wincur which does the opposite.
+* [quantum5/win2xcur](https://github.com/quantum5/win2xcur) - win2xcur is a tool that converts cursors from Windows format (\*.cur, \*.ani) to Xcursor format. It also contains x2wincur which does the opposite.
 
-*   [bottlesdevs/Bottles](https://github.com/bottlesdevs/Bottles) - Run Windows software and games on Linux
+* [bottlesdevs/Bottles](https://github.com/bottlesdevs/Bottles) - Run Windows software and games on Linux
 
-*   [Taiko2k/GTK4PythonTutorial](https://github.com/Taiko2k/GTK4PythonTutorial) - GTK4 + Python tutorial with code examples
+* [Taiko2k/GTK4PythonTutorial](https://github.com/Taiko2k/GTK4PythonTutorial) - GTK4 + Python tutorial with code examples
 
-*   [Cute-Dress/Dress](https://github.com/Cute-Dress/Dress) - 好耶 是女装 | 备份·接受PR
+* [Cute-Dress/Dress](https://github.com/Cute-Dress/Dress) - 好耶 是女装 | 备份·接受PR
 
-*   [outloudvi/mw2fcitx](https://github.com/outloudvi/mw2fcitx) - Fcitx 5 pinyin dictionary generator for MediaWiki instances. (Releases for dict of zh.moegirl.org.cn / Check release list for latest releases)
+* [outloudvi/mw2fcitx](https://github.com/outloudvi/mw2fcitx) - Fcitx 5 pinyin dictionary generator for MediaWiki instances. (Releases for dict of zh.moegirl.org.cn / Check release list for latest releases)
 
-*   [lxgr-linux/pokete](https://github.com/lxgr-linux/pokete) - A terminal based Pokemon like game
+* [lxgr-linux/pokete](https://github.com/lxgr-linux/pokete) - A terminal based Pokemon like game
 
-*   [svc-develop-team/so-vits-svc](https://github.com/svc-develop-team/so-vits-svc) - SoftVC VITS Singing Voice Conversion
+* [svc-develop-team/so-vits-svc](https://github.com/svc-develop-team/so-vits-svc) - SoftVC VITS Singing Voice Conversion
 
-*   [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
+* [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 
-*   [zhiyiYo/PyQt-Fluent-Widgets](https://github.com/zhiyiYo/PyQt-Fluent-Widgets) - A fluent design widgets library based on C++ Qt/PyQt/PySide. Make Qt Great Again.
+* [zhiyiYo/PyQt-Fluent-Widgets](https://github.com/zhiyiYo/PyQt-Fluent-Widgets) - A fluent design widgets library based on C++ Qt/PyQt/PySide. Make Qt Great Again.
 
 ## JavaScript
 
-*   [xsjk/codex-workspace-filter](https://github.com/xsjk/codex-workspace-filter) - VS Code extension that patches OpenAI Codex to filter thread lists by current workspace folders.
+* [xsjk/codex-workspace-filter](https://github.com/xsjk/codex-workspace-filter) - VS Code extension that patches OpenAI Codex to filter thread lists by current workspace folders.
 
-*   [AHCorn/Bilibili-To-Raindrop](https://github.com/AHCorn/Bilibili-To-Raindrop) - 导出哔哩哔哩收藏夹至 CSV 文件，以便转移至 Raindrop 或备份 / Export the Bilibili favorites folder to a CSV file for easy transfer to Raindrop or backup.
+* [AHCorn/Bilibili-To-Raindrop](https://github.com/AHCorn/Bilibili-To-Raindrop) - 导出哔哩哔哩收藏夹至 CSV 文件，以便转移至 Raindrop 或备份 / Export the Bilibili favorites folder to a CSV file for easy transfer to Raindrop or backup.
 
-*   [obgnail/typora\_plugin](https://github.com/obgnail/typora_plugin) - Typora Plugin. Feature Enhancement Tool | Typora 插件，功能增强工具
+* [obgnail/typora\_plugin](https://github.com/obgnail/typora_plugin) - Typora Plugin. Feature Enhancement Tool | Typora 插件，功能增强工具
 
-*   [MrOtherGuy/fx-autoconfig](https://github.com/MrOtherGuy/fx-autoconfig) - Load custom javascript in browser context
+* [MrOtherGuy/fx-autoconfig](https://github.com/MrOtherGuy/fx-autoconfig) - Load custom javascript in browser context
 
-*   [ixovo/Cloudflare-Workers-E5Renew](https://github.com/ixovo/Cloudflare-Workers-E5Renew) - Cloudflare Workers for E5 Renewal
+* [ixovo/Cloudflare-Workers-E5Renew](https://github.com/ixovo/Cloudflare-Workers-E5Renew) - Cloudflare Workers for E5 Renewal
 
 ## miscellaneous
 
-*   [op7418/Humanizer-zh](https://github.com/op7418/Humanizer-zh) - Humanizer 的汉化版本，Claude Code Skills，旨在消除文本中 AI 生成的痕迹。
+* [op7418/Humanizer-zh](https://github.com/op7418/Humanizer-zh) - Humanizer 的汉化版本，Claude Code Skills，旨在消除文本中 AI 生成的痕迹。
 
-*   [CrackerCat/simpread](https://github.com/CrackerCat/simpread) - 简悦导入文章
+* [CrackerCat/simpread](https://github.com/CrackerCat/simpread) - 简悦导入文章
 
-*   [ZJU-LLMs/Foundations-of-LLMs](https://github.com/ZJU-LLMs/Foundations-of-LLMs) - A book for Learning the Foundations of LLMs
+* [ZJU-LLMs/Foundations-of-LLMs](https://github.com/ZJU-LLMs/Foundations-of-LLMs) - A book for Learning the Foundations of LLMs
 
-*   [dungeonlab-open/dglab-bluetooth-protocol](https://github.com/dungeonlab-open/dglab-bluetooth-protocol) - The Bluetooth Protocol Of DG-LAB Devices
+* [dungeonlab-open/dglab-bluetooth-protocol](https://github.com/dungeonlab-open/dglab-bluetooth-protocol) - The Bluetooth Protocol Of DG-LAB Devices
 
-*   [newmanls/rofi-themes-collection](https://github.com/newmanls/rofi-themes-collection) - Themes Collection for Rofi Launcher
+* [newmanls/rofi-themes-collection](https://github.com/newmanls/rofi-themes-collection) - Themes Collection for Rofi Launcher
 
 ## Rust
 
-*   [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io
+* [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io
 
-*   [boxxy-dev/boxxy](https://github.com/boxxy-dev/boxxy) - Stupid Linux Terminal
+* [boxxy-dev/boxxy](https://github.com/boxxy-dev/boxxy) - Stupid Linux Terminal
 
-*   [ShadowBlip/InputPlumber](https://github.com/ShadowBlip/InputPlumber) - Open source input router and remapper daemon for Linux
+* [ShadowBlip/InputPlumber](https://github.com/ShadowBlip/InputPlumber) - Open source input router and remapper daemon for Linux
 
-*   [mistrmochov/WaydroidSU](https://github.com/mistrmochov/WaydroidSU) - WaydroidSU, CLI Magisk manager and installer for Waydroid written in Rust
+* [mistrmochov/WaydroidSU](https://github.com/mistrmochov/WaydroidSU) - WaydroidSU, CLI Magisk manager and installer for Waydroid written in Rust
 
-*   [H-M-H/Weylus](https://github.com/H-M-H/Weylus) - Use your tablet as graphic tablet/touch screen on your computer.
+* [H-M-H/Weylus](https://github.com/H-M-H/Weylus) - Use your tablet as graphic tablet/touch screen on your computer.
 
-*   [typst/typst](https://github.com/typst/typst) - A markup-based typesetting system that is powerful and easy to learn.
+* [typst/typst](https://github.com/typst/typst) - A markup-based typesetting system that is powerful and easy to learn.
 
 ## Go
 
-*   [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 3.1 Pro, GPT 5.5, Grok 4.3, Claude model through API
+* [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 3.1 Pro, GPT 5.5, Grok 4.3, Claude model through API
 
-*   [SpectoLabs/hoverfly](https://github.com/SpectoLabs/hoverfly) - Lightweight service virtualization/ API simulation / API mocking tool for developers and testers
+* [SpectoLabs/hoverfly](https://github.com/SpectoLabs/hoverfly) - Lightweight service virtualization/ API simulation / API mocking tool for developers and testers
 
-*   [golangci/golangci-lint](https://github.com/golangci/golangci-lint) - Fast linters runner for Go
+* [golangci/golangci-lint](https://github.com/golangci/golangci-lint) - Fast linters runner for Go
 
 ## C++
 
-*   [waywallen/open-wallpaper-engine](https://github.com/waywallen/open-wallpaper-engine) - Open source wallpaper engine implement mostly for linux
+* [waywallen/open-wallpaper-engine](https://github.com/waywallen/open-wallpaper-engine) - Open source wallpaper engine implement mostly for linux
 
-*   [catsout/wallpaper-scene-renderer](https://github.com/catsout/wallpaper-scene-renderer) - Wallpaper engine scene renderer for linux
+* [catsout/wallpaper-scene-renderer](https://github.com/catsout/wallpaper-scene-renderer) - Wallpaper engine scene renderer for linux
 
-*   [redroid-rockchip/vendor\_redroid\_ext](https://github.com/redroid-rockchip/vendor_redroid_ext) -
+* [redroid-rockchip/vendor\_redroid\_ext](https://github.com/redroid-rockchip/vendor_redroid_ext) -
 
-*   [EricInacio01/PlayIntegrityFix-NEXT](https://github.com/EricInacio01/PlayIntegrityFix-NEXT) - PIF Fork. This module provides experimental implementations to ensure valid attestation under the new PlayIntegrity rules.
+* [EricInacio01/PlayIntegrityFix-NEXT](https://github.com/EricInacio01/PlayIntegrityFix-NEXT) - PIF Fork. This module provides experimental implementations to ensure valid attestation under the new PlayIntegrity rules.
 
-*   [MhmRdd/NoHello](https://github.com/MhmRdd/NoHello) - A Zygisk module to hide root.
+* [MhmRdd/NoHello](https://github.com/MhmRdd/NoHello) - A Zygisk module to hide root.
 
-*   [pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) - Karabiner-Elements is a powerful tool for customizing keyboards on macOS
+* [pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) - Karabiner-Elements is a powerful tool for customizing keyboards on macOS
 
-*   [qwerty12356-wart/test\_libnb](https://github.com/qwerty12356-wart/test_libnb) -
+* [qwerty12356-wart/test\_libnb](https://github.com/qwerty12356-wart/test_libnb) -
 
-*   [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
+* [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 
-*   [Redot-Engine/redot-engine](https://github.com/Redot-Engine/redot-engine) - Redot Engine – Multi-platform 2D and 3D game engine
+* [Redot-Engine/redot-engine](https://github.com/Redot-Engine/redot-engine) - Redot Engine – Multi-platform 2D and 3D game engine
 
-*   [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
+* [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 
-*   [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
+* [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
 
-*   [zhuzichu520/FluentUI](https://github.com/zhuzichu520/FluentUI) - FluentUI for QML
+* [zhuzichu520/FluentUI](https://github.com/zhuzichu520/FluentUI) - FluentUI for QML
 
 ## C\#
 
-*   [Misaki0331/Win-kurarin](https://github.com/Misaki0331/Win-kurarin) - Windows x きゅうくらりん
+* [Misaki0331/Win-kurarin](https://github.com/Misaki0331/Win-kurarin) - Windows x きゅうくらりん
 
-*   [mxgmn/WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse) - Bitmap & tilemap generation from a single example with the help of ideas from quantum mechanics
+* [mxgmn/WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse) - Bitmap & tilemap generation from a single example with the help of ideas from quantum mechanics
 
 ## Vala
 
-*   [neithern/g4music](https://github.com/neithern/g4music) - A light weight music player written in GTK4, with a fluent adaptive user interface.
+* [neithern/g4music](https://github.com/neithern/g4music) - A light weight music player written in GTK4, with a fluent adaptive user interface.
 
-*   [lainsce/notejot](https://github.com/lainsce/notejot) - Stupidly-simple notes app.
+* [lainsce/notejot](https://github.com/lainsce/notejot) - Stupidly-simple notes app.
 
 ## Shell
 
-*   [yeyushengfan258/Reversal-icon-theme](https://github.com/yeyushengfan258/Reversal-icon-theme) - A colorful Design Rectangle icon theme for linux desktops
+* [yeyushengfan258/Reversal-icon-theme](https://github.com/yeyushengfan258/Reversal-icon-theme) - A colorful Design Rectangle icon theme for linux desktops
 
-*   [YogSottot/waydroid\_stuff](https://github.com/YogSottot/waydroid_stuff) - Various scripts for building waydroid and waydroid images
+* [YogSottot/waydroid\_stuff](https://github.com/YogSottot/waydroid_stuff) - Various scripts for building waydroid and waydroid images
 
-*   [YageGeng/thinkbook16p-gen5-sound-fix](https://github.com/YageGeng/thinkbook16p-gen5-sound-fix) - thinkbook 16p gen5 sound fix
+* [YageGeng/thinkbook16p-gen5-sound-fix](https://github.com/YageGeng/thinkbook16p-gen5-sound-fix) - thinkbook 16p gen5 sound fix
 
 ## Jupyter Notebook
 
-*   [datawhalechina/happy-llm](https://github.com/datawhalechina/happy-llm) - 📚 从零开始构建大模型
+* [datawhalechina/happy-llm](https://github.com/datawhalechina/happy-llm) - 📚 从零开始构建大模型
 
 ## TypeScript
 
-*   [boerdereinar/copyous](https://github.com/boerdereinar/copyous) - Modern Clipboard Manager for GNOME
+* [boerdereinar/copyous](https://github.com/boerdereinar/copyous) - Modern Clipboard Manager for GNOME
 
-*   [romanlefler/SimpleWeather](https://github.com/romanlefler/SimpleWeather) - A highly configurable GNOME shell extension for viewing the weather.
+* [romanlefler/SimpleWeather](https://github.com/romanlefler/SimpleWeather) - A highly configurable GNOME shell extension for viewing the weather.
 
-*   [huxulm/lc-rating](https://github.com/huxulm/lc-rating) - 力扣周赛训练小工具，欢迎使用🎈
+* [huxulm/lc-rating](https://github.com/huxulm/lc-rating) - 力扣周赛训练小工具，欢迎使用🎈
 
-*   [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
+* [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 
-*   [continuedev/continue](https://github.com/continuedev/continue) - open-source coding agent
+* [continuedev/continue](https://github.com/continuedev/continue) - open-source coding agent
 
-*   [Floorp-Projects/Floorp](https://github.com/Floorp-Projects/Floorp) - All of source code of Floorp 12, the most Advanced and Fastest Firefox derivative 🦊
+* [Floorp-Projects/Floorp](https://github.com/Floorp-Projects/Floorp) - All of source code of Floorp 12, the most Advanced and Fastest Firefox derivative 🦊
 
-*   [vixalien/sticky](https://github.com/vixalien/sticky) - A simple sticky notes app for GNOME
+* [vixalien/sticky](https://github.com/vixalien/sticky) - A simple sticky notes app for GNOME
 
 ## TeX
 
-*   [billryan/resume](https://github.com/billryan/resume) - An elegant \LaTeX\ résumé template. 大陆镜像 https://gods.coding.net/p/resume/git
+* [billryan/resume](https://github.com/billryan/resume) - An elegant \LaTeX\ résumé template. 大陆镜像 https://gods.coding.net/p/resume/git
 
-*   [moesoha/debian-media-box](https://github.com/moesoha/debian-media-box) - “Debian 小药盒”，一个用来包装 Debian 安装介质的盒子设计和介绍用的说明书。
+* [moesoha/debian-media-box](https://github.com/moesoha/debian-media-box) - “Debian 小药盒”，一个用来包装 Debian 安装介质的盒子设计和介绍用的说明书。
 
 ## Java
 
-*   [RikkaApps/Sui](https://github.com/RikkaApps/Sui) - Modern super user interface implementation on Android.
+* [RikkaApps/Sui](https://github.com/RikkaApps/Sui) - Modern super user interface implementation on Android.
 
-*   [LSPosed/AndroidHiddenApiBypass](https://github.com/LSPosed/AndroidHiddenApiBypass) - LSPass: Bypass restrictions on non-SDK interfaces
+* [LSPosed/AndroidHiddenApiBypass](https://github.com/LSPosed/AndroidHiddenApiBypass) - LSPass: Bypass restrictions on non-SDK interfaces
 
-*   [nightmare-space/android\_api\_server](https://github.com/nightmare-space/android_api_server) - android server, based on HTTP
+* [nightmare-space/android\_api\_server](https://github.com/nightmare-space/android_api_server) - android server, based on HTTP
 
-*   [gtf35/app\_process-shell-use](https://github.com/gtf35/app_process-shell-use) - 利用 app\_process 实现免root调用shell
+* [gtf35/app\_process-shell-use](https://github.com/gtf35/app_process-shell-use) - 利用 app\_process 实现免root调用shell
 
-*   [Melledy/LunarCore](https://github.com/Melledy/LunarCore) - A game server reimplementation for a certain turn-based anime game
+* [Melledy/LunarCore](https://github.com/Melledy/LunarCore) - A game server reimplementation for a certain turn-based anime game
 
-*   [cinit/QAuxiliary](https://github.com/cinit/QAuxiliary) - QNotified phoenix - To make OICQ great again
+* [cinit/QAuxiliary](https://github.com/cinit/QAuxiliary) - QNotified phoenix - To make OICQ great again
 
 ## GLSL
 
-*   [noelsimbolon/mpv-config](https://github.com/noelsimbolon/mpv-config) - 🎥 High-quality configuration for mpv media player
+* [noelsimbolon/mpv-config](https://github.com/noelsimbolon/mpv-config) - 🎥 High-quality configuration for mpv media player
 
 ## Kotlin
 
-*   [Nightdavisao/ConnectivityHack](https://github.com/Nightdavisao/ConnectivityHack) - (Xposed module) Force hasTransport(WIFI)=true even though the device isn't connected to wi-fi
+* [Nightdavisao/ConnectivityHack](https://github.com/Nightdavisao/ConnectivityHack) - (Xposed module) Force hasTransport(WIFI)=true even though the device isn't connected to wi-fi
 
-*   [beakthoven/TrickyStoreOSS](https://github.com/beakthoven/TrickyStoreOSS) - Open source alternative to proprietary Tricky Store module
+* [beakthoven/TrickyStoreOSS](https://github.com/beakthoven/TrickyStoreOSS) - Open source alternative to proprietary Tricky Store module
 
-*   [reveny/Android-Native-Root-Detector](https://github.com/reveny/Android-Native-Root-Detector) - A tool to detect root on android
+* [reveny/Android-Native-Root-Detector](https://github.com/reveny/Android-Native-Root-Detector) - A tool to detect root on android
 
-*   [KDE/kdeconnect-android](https://github.com/KDE/kdeconnect-android) - Native Android port of the KDE Connect Qt app
+* [KDE/kdeconnect-android](https://github.com/KDE/kdeconnect-android) - Native Android port of the KDE Connect Qt app
 
-*   [ktorio/ktor-documentation](https://github.com/ktorio/ktor-documentation) - Documentation for the Ktor framework.
+* [ktorio/ktor-documentation](https://github.com/ktorio/ktor-documentation) - Documentation for the Ktor framework.
 
 ## C
 
-*   [GNOME/libmanette](https://github.com/GNOME/libmanette) - Read-only mirror of https://gitlab.gnome.org/GNOME/libmanette
+* [GNOME/libmanette](https://github.com/GNOME/libmanette) - Read-only mirror of https://gitlab.gnome.org/GNOME/libmanette
 
-*   [yuandaimaahao/AndroidFrameworkTutorial](https://github.com/yuandaimaahao/AndroidFrameworkTutorial) - 写给应用开发的 Android Framework 教程
+* [yuandaimaahao/AndroidFrameworkTutorial](https://github.com/yuandaimaahao/AndroidFrameworkTutorial) - 写给应用开发的 Android Framework 教程
 
-*   [mjakeman/extension-manager](https://github.com/mjakeman/extension-manager) - A utility for browsing and installing GNOME Shell Extensions.
+* [mjakeman/extension-manager](https://github.com/mjakeman/extension-manager) - A utility for browsing and installing GNOME Shell Extensions.
 
-*   [PerformanC/ReZygisk](https://github.com/PerformanC/ReZygisk) - Transparent implementation of Zygisk.
+* [PerformanC/ReZygisk](https://github.com/PerformanC/ReZygisk) - Transparent implementation of Zygisk.
 
-*   [cage-kiosk/cage](https://github.com/cage-kiosk/cage) - A Wayland kiosk
+* [cage-kiosk/cage](https://github.com/cage-kiosk/cage) - A Wayland kiosk
 
-*   [johnfanv2/LenovoLegionLinux](https://github.com/johnfanv2/LenovoLegionLinux) - Driver and tools for controlling Lenovo Legion laptops in Linux including fan control and power mode.
+* [johnfanv2/LenovoLegionLinux](https://github.com/johnfanv2/LenovoLegionLinux) - Driver and tools for controlling Lenovo Legion laptops in Linux including fan control and power mode.
 
-*   [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
+* [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 
-*   [rvaiya/keyd](https://github.com/rvaiya/keyd) - A key remapping daemon for linux.
+* [rvaiya/keyd](https://github.com/rvaiya/keyd) - A key remapping daemon for linux.
 
 ## CSS
 
-*   [Diolinux/PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) - A Patch for GIMP 3+ for Photoshop Users
+* [Diolinux/PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) - A Patch for GIMP 3+ for Photoshop Users
 
 ## HTML
 
-*   [Open-Wine-Components/umu-database](https://github.com/Open-Wine-Components/umu-database) - Contains spreadsheet of game titles for different stores, their store specific code names, and their ULWGL ids.
+* [Open-Wine-Components/umu-database](https://github.com/Open-Wine-Components/umu-database) - Contains spreadsheet of game titles for different stores, their store specific code names, and their ULWGL ids.
 
-*   [trans-archive/jyosei-guide](https://github.com/trans-archive/jyosei-guide) - 成为女孩子的声音！结合了插画、音频和基础训练手段的伪声训练
+* [trans-archive/jyosei-guide](https://github.com/trans-archive/jyosei-guide) - 成为女孩子的声音！结合了插画、音频和基础训练手段的伪声训练
 
 ## Typst
 
-*   [nju-lug/modern-nju-thesis](https://github.com/nju-lug/modern-nju-thesis) - 南京大学学位论文 Typst 模板 modern-nju-thesis
+* [nju-lug/modern-nju-thesis](https://github.com/nju-lug/modern-nju-thesis) - 南京大学学位论文 Typst 模板 modern-nju-thesis
 
 ## QML
 
-*   [lengyefenghan/Megumin-theme-sddm](https://github.com/lengyefenghan/Megumin-theme-sddm) - A simple SDDM theme for Megumin.
+* [lengyefenghan/Megumin-theme-sddm](https://github.com/lengyefenghan/Megumin-theme-sddm) - A simple SDDM theme for Megumin.
 
 ## GDScript
 
-*   [gdquest-demos/godot-open-rpg](https://github.com/gdquest-demos/godot-open-rpg) - Learn to create turn-based combat with this Open Source RPG demo ⚔
+* [gdquest-demos/godot-open-rpg](https://github.com/gdquest-demos/godot-open-rpg) - Learn to create turn-based combat with this Open Source RPG demo ⚔
 
 ## Scala
 
-*   [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for the X Recommendation Algorithm
+* [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for the X Recommendation Algorithm
 
 ## Thanks
 
-*   generated with [simonecorsi/mawesome](https://github.com/simonecorsi/mawesome)
+* generated with [simonecorsi/mawesome](https://github.com/simonecorsi/mawesome)
